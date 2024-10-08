@@ -1,0 +1,274 @@
+category_scores/Asymmetric/score,category_scores/Covert/score,category_scores/Deceptive/score,category_scores/Hides Information/score,category_scores/Restrictive/score,overall_assessment/total_score,overall_assessment/max_possible_score,overall_assessment/summary,website
+4,3,3,2,1,13,50,"The website demonstrates a few mild dark patterns. The notable patterns include a slight preference for users to change the delivery address over dismissing the prompt, subtly influencing user choices. However, essential information is accessible with minimal restriction on user actions.",Amazon
+5,6,4,7,5,27,50,"The website employs a number of dark patterns, with particularly notable scores in the Hides Information and Covert categories. While important information is present, it is often delayed or somewhat hidden, and some design elements subtly steer user choices.",eBay
+6,5,4,5,7,27,50,"The website employs several dark patterns, with moderately high scores in Asymmetric and Restrictive categories. The robot-human confirmation method significantly disrupts the user's flow and is somewhat restrictive without providing alternative easier verification methods. Information hiding is present but not highly pronounced.",Walmart
+,,,,,,,,Alibaba
+3,2,4,5,1,15,50,"The website displays a sale prominently, but has mostly transparent navigation and information. There is a slight tendency towards asymmetric design favoring the sale, and some information might require extra steps to be fully understood.",Target
+,,,,,,,,Best Buy
+,,,,,,,,Flipkart
+,,,,,,,,Rakuten
+2,1,1,1,1,6,50,"The website provides a straightforward choice of different countries with no significant use of dark patterns. The design presents country options equally without bias. There is no misleading information, covert influences, hiding information, or restricting user choices in a meaningful way.",MercadoLibre
+2,0,0,2,4,8,50,"The website displays a list of countries where its services are available. It features relatively minimal dark patterns, with a slightly higher score in the Restrictive category due to the geographic limitations of their services. Information is mostly transparent and options are clearly presented without misleading elements.",Zalando
+,,,,,,,,JD.com
+,,,,,,,,Shopify
+,,,,,,,,Newegg
+,,,,,,,,Wayfair
+,,,,,,,,ASOS
+5,6,4,6,3,24,50,"The website employs several dark patterns, with higher scores in the Covert and Hides Information categories. The presentation is somewhat biased, and certain important information might be delayed or requires additional steps to access.",Overstock
+5,6,4,7,9,31,50,"The website employs several dark patterns, with particularly high scores in Restrictive and Hides Information categories. The presented message is somewhat opaque, providing limited explanations and means of redress, which can confuse and frustrate users.",Etsy
+8,6,5,7,5,31,50,"The website employs several dark patterns with high prominence given to certain actions over others. The use of pop-ups and promotional overlays subtly influences user choices. Information about sales and offers is often highlighted, but detailed terms and important information can be harder to find.",Aliexpress
+,,,,,,,,Wish
+6,5,4,7,3,25,50,"The website shows some use of dark patterns, particularly in the Asymmetric and Hides Information categories. The presentation is slightly biased, with important information being somewhat obscured or only accessible after additional steps. While these patterns are noticeable, they are not extremely restrictive or misleading.",Home Depot
+0,0,0,0,0,0,50,"The webpage cannot be reached due to an HTTP2 protocol error. Therefore, no analysis of dark patterns can be performed.",Lowes
+7,5,4,6,3,25,50,"The website employs several dark patterns, particularly in the Asymmetric and Hides Information categories. While the information about cookies is transparent, the unequal prominence of cookie choices suggests manipulation, leading users to accept all cookies more easily. There are some covert and deceptive elements, but they are more subtle.",IKEA
+,,,,,,,,Macy's
+0,0,0,0,0,0,50,"The website cannot be reached due to a protocol error (ERR_HTTP2_PROTOCOL_ERROR). As there is no content to analyze, there are no dark patterns present.",Costco
+3,4,2,3,5,17,50,"The website demonstrates mild use of asymmetric and covert techniques, with relatively straightforward information. There are some restrictive elements with a button that necessitates user interaction, but nothing extremely limiting.",Sam's Club
+5,4,5,6,3,23,50,"The website employs a few dark patterns. The presentation mildly favors certain choices, some design elements subtly influence user decisions, and information, though mostly available, can be delayed or obscured. There are slight restrictions, but reasonable alternatives are available.",Sears
+,,,,,,,,Kohl's
+5,4,3,6,7,25,50,The website employs some dark patterns. The presentation is slightly biased and important information regarding the unusual activity is partially obscured or requires contacting customer service. User options are somewhat restrictive and alternative paths require additional steps.,Nordstrom
+3,4,5,6,2,20,50,"The website employs dark patterns to a moderate extent. The design shows a mild bias towards promoting sales, slightly influencing user decisions. Information is relatively accessible, although some important details might require additional steps to uncover. The website is not highly restrictive in terms of user choices.",Toys R Us
+3,3,4,5,2,17,50,"The website shows some use of dark patterns, particularly in Hides Information and Deceptive categories. The promotional message is a bit misleading with the asterisk, and some information about the offer may be obscured or require additional steps to access. Asymmetric presentation is present but not severe, and the overall restrictions on user choices are minimal.",Apple
+8,4,6,5,5,28,50,"The website employs several dark patterns, with a particularly high score in the Asymmetric category. The choices presented for cookie preferences are biased, with the 'Accept' option more prominently placed. There is some deceptive wording regarding the necessity of optional cookies, and certain information is less accessible without additional steps.",Microsoft Store
+6,5,4,7,4,26,50,"The website demonstrates several mild to moderate dark patterns. There is a noticeable bias in the presentation of cookie options, with 'Accept All' visually more prominent than 'Decline All', slight covert techniques, and some important cookie-related information somewhat delayed or obscured.",Dell
+6,4,4,5,3,22,50,"The website exhibits some dark patterns, with a noticeable bias in the accept all cookies option, though they are relatively mild. The presentation of cookie choices is somewhat asymmetric, and some information might require additional steps to access.",HP
+3,4,4,5,3,19,50,"The website employs a few dark patterns, though not excessively. Some elements display a slight bias in presentation, and certain pieces of information require additional steps to access. Overall, user decisions are subtly influenced but not heavily restricted or deceived.",Lenovo
+,,,,,,,,Nike
+0,0,0,0,0,0,50,The website cannot be assessed for dark patterns as it is currently unreachable due to an HTTP2 protocol error. No dark patterns detected.,Adidas
+,,,,,,,,Puma
+7,5,4,6,3,25,50,"The website displays a few dark patterns. The presentation leans towards making the 'Accept All' option for cookies more prominent than the 'Customize' or 'Reject All' options, suggesting an asymmetric pattern. Savings information is detailed but may have partially hidden conditions under 'Exclusions apply,' which indicates an attempt to hide some information. The 'Customize' cookie settings underline a somewhat covert approach to obtaining consent, but not overly deceptive or restrictive. Overall, the website uses mild manipulative techniques but maintains a reasonable degree of transparency.",Reebok
+5,3,2,6,4,20,50,"The website uses some dark patterns in its cookie consent popup, with a notable bias in presentation and some minor elements of hidden information. The overall impact of these patterns is moderate, and more balanced options are available.",Under Armour
+,,,,,,,,H&M
+6,4,5,7,5,27,50,"The website employs several dark patterns, with higher scores in Asymmetric and Hides Information categories. There is noticeable bias in the presentation, and some important information regarding messages and terms is somewhat obscured.",Uniqlo
+5,4,3,8,9,29,50,"The website shows restricted access, preventing users from viewing content. Important information may be hidden behind this access restriction. While not highly deceptive, the restrictive nature of access is significant, and design elements could influence user interaction subtly.",Zara
+7,5,4,6,8,30,50,"The website employs several dark patterns, particularly in being restrictive and asymmetric in user choices. The presentation favors signing up for emails with a visible pop-up that overshadows the rest of the content, and important information about cookies is somewhat concealed. While the practices are not entirely deceptive, the overall design notably influences user decisions towards specific actions.",Forever 21
+,,,,,,,,Urban Outfitters
+5,4,4,6,7,26,50,"The website has a moderate use of dark patterns. Notably, it slightly biases towards promoting sales and discounts with prominent buttons leading to sale items. The use of phrases like 'Limited Time!' pressures users, and important conditions like qualifying styles for discounts are not immediately visible, moderately restricting user choices.",Hollister
+,,,,,,,,Abercrombie & Fitch
+0,0,0,0,0,0,50,The website is currently unreachable due to an HTTP2 protocol error. No dark patterns can be assessed in this situation as the website's content is not displayed.,Lululemon
+,,,,,,,,Victoria's Secret
+,,,,,,,,Sephora
+6,5,3,6,7,27,50,"The website has several dark patterns, especially in the asymmetric and restrictive categories. The choices presented to users are noticeably biased and significant information about data sharing is not immediately transparent.",Ulta
+6,5,4,7,5,27,50,"The website displays several dark patterns, particularly in the Asymmetric and Hides Information categories. The presentation is notably biased towards a specific purchasing option, and some information is obscured or requires additional steps to access.",Glossier
+7,5,3,6,4,25,50,"The website exhibits several dark patterns. The presentation is noticeably biased, with a preference for accepting cookies more prominent than rejecting. Some information on tracking technologies is only available after additional steps. Covert techniques subtly influence choices but are not entirely deceptive.",Fenty Beauty
+,,,,,,,,ColourPop
+,,,,,,,,Pat McGrath
+6,5,3,6,7,27,50,"The website exhibits several dark patterns, with particularly high scores in Asymmetric and Restrictive categories. The presentation is biased, with the 'Accept' button for cookies given more prominence than 'Reject' or 'Customise'. Important information on cookies is present but not very prominently displayed.",Charlotte Tilbury
+0,0,0,0,0,0,50,"The website could not be reached due to a protocol error, so no dark patterns were detected. Without access to the actual content of the website, it's not possible to assess or categorize any design choices or their potential to employ dark patterns.",Too Faced
+,,,,,,,,Anastasia Beverly Hills
+,,,,,,,,Morphe
+,,,,,,,,The Body Shop
+6,4,3,3,7,23,50,"The website has a noticeably biased presentation with a prominent default option to 'Ship to Canada,' making it less intuitive for users to choose an alternative location. This results in high scores in the Asymmetric and Restrictive categories. There is some subtle influence in user choices, but less evident use of deceptive tactics or hidden information.",L'Occitane
+7,4,3,6,5,25,50,"The website exhibits various dark patterns, primarily focusing on asymmetric presentation and hiding information. Although not overly restrictive or covert, the design's bias towards specific user actions and the way some information is delayed or obscured are areas of concern.",Birchbox
+,,,,,,,,Amazon India
+,,,,,,,,Amazon UK
+,,,,,,,,Amazon Germany
+,,,,,,,,Amazon Japan
+,,,,,,,,Lazada
+3,2,2,3,2,12,50,"The website has minimal dark patterns. There is a mild bias in presentation, slight elements of hidden influences, slightly obscured information, and minimal restrictions on user choices.",Shopee
+0,0,0,0,0,0,50,The website is currently unreachable due to an error (ERR_HTTP2_PROTOCOL_ERROR). No dark patterns were detected as the website content is not accessible at this time.,Tokopedia
+7,5,6,7,6,31,50,"The website employs several dark patterns, particularly focusing on asymmetric design and hiding information. Certain options are less prominent, while key information like promotional details may require additional steps to uncover. Restrictive choices also limit user freedom to an extent.",Bukalapak
+,,,,,,,,Blibli
+5,4,3,7,3,22,50,"The website uses several dark patterns, with the most prominent being its information-hiding practices. The presentation does exhibit some bias, particularly in the notification prompt. There are mild covert techniques but they are not entirely deceptive. Overall restriction on user choices is minimal.",Snapdeal
+0,0,0,0,0,0,50,"The website is currently not accessible due to an error (ERR_HTTP2_PROTOCOL_ERROR). As such, no dark patterns can be evaluated at this time.",Myntra
+7,5,6,8,7,33,50,"The website demonstrates several dark patterns, with high scores in Hides Information and Asymmetric categories. The presentation is biased towards promoting sales with potentially obscured important details. There is use of covert techniques to subtly influence choices and some restrictions on user freedom.",Ajio
+,,,,,,,,ShopClues
+6,5,7,6,4,28,50,"The website exhibits several dark patterns. Although choices are somewhat available, the presentation is biased with more prominent promotion of specific deals. Information on discounts can be misleading or incomplete, and some necessary elements are obscured or require additional steps to access.",BigBasket
+6,7,9,9,8,39,50,"The website employs a range of dark patterns. Significant asymmetric design, covert attempts to manipulate user perception, and deceptive practices are evident. Crucial information regarding the blocking is hidden, and user choices are notably restricted.",Grofers
+6,5,7,6,4,28,50,"The website displays several dark patterns, particularly in the Deceptive and Asymmetric categories. Sale urgency and highlighted offers subtly manipulate user decisions, while certain important details such as the exact nature of the 'EXTRA Rs. 1500 off' are not immediately clear and might be subject to conditions revealed later in the process.",Pepperfry
+,,,,,,,,Nykaa
+3,6,7,8,9,33,50,"The website blocking page employs multiple dark patterns, particularly in the Hides Information and Restrictive categories. The message is noticeably restrictive, and necessary information regarding the reason for the block or resolution steps is missing or not transparent.",Tata Cliq
+3,2,2,3,1,11,50,"The website uses a minimal amount of dark patterns. The presentation marginally favors certain products, but choices are generally clear and balanced. There's limited use of covert techniques, and information is mostly transparent. There are few restrictions on user choices.",Lenskart
+7,6,5,5,4,27,50,"The website utilizes several dark patterns. The 'Yes, Notify me' button is more prominent than the 'No, don't.' button, indicating an asymmetric approach. There are mild covert techniques influencing user's decision for notifications. Information about discounts and 'terms and conditions' are present but not immediately clear, inducing some level of deception. Information is somewhat hidden requiring additional steps and terms are indicated but not fully transparent. The website shows some restrictive patterns but alternatives do exist.",Reliance Digital
+,,,,,,,,Croma
+,,,,,,,,Dunzo
+6,4,5,7,6,28,50,"The website displays a moderate level of dark patterns. There is a bias towards certain choices, and important information may be obscured or revealed late in the process. The design slightly influences user decisions covertly, and there are some restrictions on user options.",Shopclues
+,,,,,,,,Jabong
+,,,,,,,,Naaptol
+6,5,5,8,7,31,50,"The website employs several dark patterns. It notably hides information during the loading process, assumes user decisions subtly, and restricts choices with a somewhat biased presentation. Information may be obscured or delayed during navigation.",Craftsvilla
+,,,,,,,,Fynd
+,,,,,,,,FirstCry
+7,5,3,6,2,23,50,"The website employs several dark patterns, with a notably biased presentation in the cookies consent pop-up and information slightly hidden. The overall design subtly influences user choices but doesn’t heavily restrict or completely deceive users.",Mamas & Papas
+6,4,5,6,5,26,50,"The website has some notable dark patterns, particularly in the categories of Asymmetric and Hides Information. The design appears to prioritize certain actions over others, and some details like additional GST charges may not be immediately apparent.",BabyOye
+,,,,,,,,Hopscotch
+,,,,,,,,Zivame
+,,,,,,,,Clovia
+,,,,,,,,PrettyLittleThing
+7,5,4,6,5,27,50,"The website displays several dark patterns. The 'Accept All' option for cookies is more visually prominent than the 'Let Me Choose' option, indicating asymmetry. There is some use of covert design elements, as the positioning and emphasis may subtly influence user choices. While the information is not wholly deceptive, it has some elements that are not completely transparent. Important information about cookie options may be more complex to access, indicating some obfuscation. The user has some freedom in choices, but the design does subtly steer them towards certain actions.",Boohoo
+7,5,4,6,6,28,50,"The website employs several dark patterns, particularly in Asymmetric and Hides Information categories. The design choices create a biased presentation towards signing up, with essential details delayed or less emphasized. Although influential, the patterns are not overly restrictive.",Shein
+,,,,,,,,ASDA
+7,5,3,6,4,25,50,"The website employs several dark patterns, particularly in the Asymmetric and Hides Information categories. The cookie consent interface shows noticeable bias towards accepting all cookies, and some information is delayed or requires additional steps to access.",Marks & Spencer
+0,0,0,0,0,0,50,"The webpage cannot be reached, and therefore it is not possible to analyze for dark patterns in its current state.",John Lewis
+6,4,5,7,3,25,50,"The website employs some dark patterns, most notably in the Asymmetric and Hides Information categories. The cookie consent form presents biased options, with the accept all cookies button more prominently placed and worded more positively. Some information is obscured or requires additional steps to access, but it is not overly restrictive in terms of user choices.",Next
+,,,,,,,,Argos
+0,0,0,0,0,0,50,"The website cannot be reached, and no dark patterns can be assessed based on the error message displayed.",Tesco
+,,,,,,,,Sainsbury's
+,,,,,,,,Ocado
+0,0,0,0,0,0,50,The website is currently unreachable and cannot be assessed for dark patterns at this time.,Waitrose
+,,,,,,,,Morrisons
+,,,,,,,,Boots
+0,0,0,0,0,0,50,"The website cannot be accessed; thus, there are no dark patterns to analyze. The webpage might be temporarily down or its address might have changed.",Superdrug
+8,5,6,7,7,33,50,"The website employs several dark patterns, with particularly high scores in Asymmetric and Hides Information categories. The options are noticeably biased, with the 'Accept All Cookies' button more prominent than 'Cookies Settings'. Additionally, important information about cookies is not immediately obvious or fully detailed, and user choices are somewhat restricted and covertly influenced.",Carrefour
+,,,,,,,,Auchan
+6,4,5,7,6,28,50,"The website utilizes various dark patterns, particularly in the form of asymmetric designs and hiding information. The 'join' button for a personalized experience is more prominently displayed, pushing towards login or account creation. The information about the store location can be somewhat misleading since it's specific to a certain location without earlier clarification. The cookie setting choices, while present, use a design that subtly nudges towards acceptance.",Lidl
+,,,,,,,,Aldi
+6,3,5,4,2,20,50,"The website employs several dark patterns with noticeable biases in cookie consent presentation. Options are somewhat asymmetrical, with a preference towards accepting all cookies. Information on cookies is available but requires an additional step to access.",IKEA India
+0,0,0,0,0,0,50,"The website is not accessible due to an error (ERR_HTTP2_PROTOCOL_ERROR), and therefore, no dark patterns can be evaluated. Possible causes include the site being temporarily down or having moved to a different address.",Big W
+0,0,0,0,0,0,50,"The website is currently unreachable due to a 'ERR_HTTP2_PROTOCOL_ERROR'. Therefore, no dark patterns can be assessed at this time.",Target Australia
+6,3,5,4,2,20,50,"The website shows some mild use of dark patterns. There is a noticeable bias in the presentation of offers, but alternative choices are still visible. There are slight covert influences and mild deception, but overall user choices are fairly transparent. Some information may be delayed or require additional steps to access.",David Jones
+2,4,5,6,5,22,50,"The website uses some dark patterns, particularly in the Hides Information and Covert categories. Although necessary information is listed, some elements may subtly influence user decisions. The security check is explicit but may be perceived as somewhat restrictive and potentially misleading without more detailed context.",Harvey Norman
+,,,,,,,,JB Hi-Fi
+9,7,5,6,9,36,50,"The website employs several dark patterns, with particularly high scores in Asymmetric, Covert, and Restrictive categories. The presentation is extremely biased as the user is blocked without clear recourse, and important information is somewhat hidden or only revealed under specific conditions.",Dick Smith
+,,,,,,,,The Iconic
+6,5,4,7,6,28,50,"The website employs several dark patterns with medium scores in Asymmetric, Hides Information, and Restrictive categories. The promotion and subscription options are somewhat biased and crucial offer terms might not be immediately clear.",Catch
+,,,,,,,,Kmart Australia
+3,2,1,4,2,12,50,"The website shows mild use of dark patterns. The presentation is somewhat biased, information is occasionally delayed or requires additional steps to access, and minor restrictions are present but some alternatives are available.",Myer
+,,,,,,,,Kogan
+3,6,5,7,4,25,50,"The website shows some use of dark patterns, particularly in the Covert and Hides Information categories. While the options are presented mostly symmetrically, there is some misleading information and hidden details about the promotion.",eBay Australia
+,,,,,,,,Woolworths
+,,,,,,,,Chemist Warehouse
+1,2,1,3,3,10,50,"The website mostly adheres to ethical design practices with low scores in dark patterns. The only minor issues detected are related to information being slightly delayed or requiring additional steps to access, and a minor restriction in user choices due to the necessity of completing a CAPTCHA. Overall, it presents transparent and straightforward information with minimal bias.",Bunnings
+,,,,,,,,Rebel Sport
+,,,,,,,,Supercheap Auto
+,,,,,,,,Bunnings
+0,0,0,0,0,0,50,"The website is currently inaccessible and returns a 'site can't be reached' error, indicating it might be temporarily down or have moved permanently. No dark patterns can be assessed from the provided image.",Big W
+9,8,7,9,10,43,50,"The website exhibits significant dark patterns, primarily in the Restrictive and Hides Information categories. Blocking access is a highly asymmetric and restrictive approach, likely without clear or detailed reasoning, thereby covertly influencing user behavior and hiding essential information.",Dan Murphy's
+,,,,,,,,Liquorland
+,,,,,,,,Aesop
+,,,,,,,,Mecca
+5,6,4,4,5,24,50,"The website demonstrates several mild to moderate dark patterns. The most notable are subtle influences on user choices and some asymmetric design elements, including a highly prominent login prompt. There's also a slight tendency to obscure information and moderate restrictions on user actions.",Typo
+6,3,5,6,4,24,50,"The website demonstrates some dark patterns, with higher scores in Asymmetric and Hides Information categories. Alternative choices are noticeably less prominent, and some information requires additional steps for access.",Cotton On
+6,5,5,7,8,31,50,"The website exhibits several dark patterns, particularly in the categories of Restrictive and Hides Information. The presentation is biased, leading to restricted user actions, and significant information is obscured or delayed.",Jay Jays
+5,3,4,6,5,23,50,"The website employs moderate dark patterns, particularly in Hides Information category. Some design elements subtly influence user choices and certain information about offers and conditions could be clearer.",Typo
+6,3,5,7,8,29,50,"The website uses several dark patterns, with particularly high scores in Restrictive and Hides Information categories. The design presents login and sign-up options prominently to lure users into creating accounts, and important information like terms and conditions is less visible.",Supre
+,,,,,,,,The Good Guys
+4,3,2,4,2,15,50,"The website employs some mild dark patterns, with a slightly biased presentation in favor of 'Hot Offers' and some information that may require additional steps to access. However, there are limited restrictions on user choices, and no significant deceptive or covert techniques are evident.",Appliances Online
+,,,,,,,,Autobarn
+8,4,5,7,6,30,50,"The website exhibits several dark patterns, with a high score in the Asymmetric and Hides Information categories. The presentation is noticeably biased, offering prominent visuals to certain choices while some essential information is obscured or delayed. There are moderate restrictions on user actions.",Spotlight
+7,5,6,8,7,33,50,"The website employs several dark patterns, with particularly high scores in Hides Information and Asymmetric categories. The presentation is noticeably biased, important information about the sale and consent is obscured or presented late in the process, and user choices are somewhat restricted.",Anaconda
+6,3,2,5,4,20,50,"The website exhibits noticeable but moderate use of dark patterns. The choice prompts are somewhat asymmetrically designed, potentially guiding users more towards the default option. Information is not significantly hidden, though some delays could exist. Restrictions on choices present but relatively mild. Overall, the website uses some manipulative elements but remains mostly user-friendly.",Macpac
+7,6,5,7,4,29,50,"The website employs several dark patterns, particularly in the Asymmetric, Covert, and Hides Information categories. The choice to accept cookies is prominently displayed compared to the cookie settings option, subtly influencing user decisions. Furthermore, some information is less immediately accessible, creating a bias towards certain choices.",Kathmandu
+,,,,,,,,Mountain Designs
+4,5,5,6,3,23,50,"The website employs several dark patterns, with moderately high scores in Covert and Hides Information categories. The presentation is slightly biased with some subtle influences in user decisions and important information may require additional steps to access.",BCF
+3,2,1,5,6,17,50,"The website displays minimal use of dark patterns overall, but there are some issues. There is a slightly biased presentation in terms of asymmetric options. The covert techniques are minor, with a barely noticeable influence on user choice. Deceptive elements are almost absent. Some information may be somewhat hidden or less immediately available. The restriction on user choices is mild, with some limitations but alternatives are still accessible.",Torpedo7
+,,,,,,,,Katmandu
+8,6,5,7,7,33,50,"The website prominently employs several dark patterns, especially in the Asymmetric and Hides Information categories. The presentation is quite biased towards encouraging sign-ups for the rewards program and obscures essential information which may affect user decisions.",Bonds
+8,5,6,7,8,34,50,"The website employs several dark patterns, particularly in Asymmetric and Restrictive categories. The presentation biases the user's interaction, important information about the site's requirements is not clear upfront, and user alternatives are prominently limited.",Peter Alexander
+5,6,7,7,4,29,50,"The website contains several dark patterns. The presentation shows a mild bias, especially in the large '50% off' claim, while the exclusions are in small print. Some covert techniques and deceptive elements are visible, such as the prominent display of discounts without specifying the exclusions clearly. Information about the exclusions is somewhat hidden, making it unclear without further investigation. However, the options are not extremely restrictive, providing a decent amount of freedom for user choices.",Gorman
+,,,,,,,,Country Road
+2,1,2,3,3,11,50,"The website's offline page minimally employs dark patterns. It directs users to social media for updates, which is slightly restrictive and hides some information but overall, the approach is relatively transparent and symmetric.",Mimco
+,,,,,,,,Witchery
+,,,,,,,,Seed Heritage
+5,3,4,7,3,22,50,"The website employs some dark patterns, with notably high scores in Hides Information. The presentation is somewhat biased with emphasized promotional sections. While important details are available, some information requires additional steps to access.",Sportscraft
+,,,,,,,,Saba
+7,4,5,6,2,24,50,The website demonstrates a noticeable bias in the presentation of choices and partially obscures information relevant to the user. The overall use of covert and restrictive techniques is moderate but the presentation prominently nudges users towards a specific action without being heavily restrictive.,Politix
+5,4,3,5,4,21,50,"The website has some elements of dark patterns, particularly in the Asymmetric and Hides Information categories. The presentation prefers specific user actions, and some information may be less immediately accessible.",MJ Bale
+5,4,3,6,4,22,50,"The website exhibits some dark patterns, primarily in the Hides Information category. Key elements are not immediately visible or accessible. However, the other categories such as Asymmetric and Restrictive show mild to moderate signs of biased design.",Calibre
+6,5,3,5,4,23,50,"The website demonstrates moderate use of dark patterns. The presentation is noticeabally biased towards the Canadian website option, and some information is only available after additional steps. The user does have some freedom of choice, but the interface subtly influences user behavior.",R.M. Williams
+,,,,,,,,Hush Puppies
+6,5,4,6,3,24,50,"The website employs several dark patterns, primarily using an asymmetric design to encourage email sign-ups by offering a discount. Information hiding is moderate as users are required to sign up to receive the discount. The site is also somewhat covert in manipulating choices by presenting the offer prominently upon arrival.",Windsor Smith
+7,5,4,6,8,30,50,"The website employs several dark patterns, with moderately high scores in Restrictive and Asymmetric categories. The presentation favors joining as an AQUILA+ member, and some important information is less prominent.",Aquila
+5,3,4,6,2,20,50,The website has a moderately biased presentation with more emphasis on certain products and less on others. Important information is somewhat obscured but not entirely hidden. The site has a mild influence on user choices but provides reasonable freedom with low restrictions.,Betts
+,,,,,,,,Spendless Shoes
+,,,,,,,,Platypus Shoes
+,,,,,,,,Foot Locker
+6,5,4,7,3,25,50,"The website presents some dark patterns, with particular attention to hiding certain information and a somewhat biased presentation. Important aspects like exclusions are mentioned but could be more prominent to ensure clarity.",Rebel Sport
+,,,,,,,,Supercheap Auto
+,,,,,,,,Bunnings
+0,0,0,0,0,0,50,"The webpage cannot be reached due to an error (ERR_HTTP2_PROTOCOL_ERROR). As a result, no analysis can be performed on the dark patterns of this website.",Big W
+9,7,8,9,10,43,50,"The website employs several dark patterns, with particularly high scores in Restrictive, Hides Information, and Asymmetric categories. The presentation is extremely biased, important information is hidden, and user decisions appear to be heavily manipulated without adequate transparency.",Dan Murphy's
+6,4,5,7,8,30,50,"The website presents several dark patterns, with significant scores in the Restrictive and Hides Information categories. The process for users to access the site appears somewhat biased, requiring specific actions like disabling proxies or solving CAPTCHAs, and important information is not immediately evident.",Liquorland
+7,5,3,4,2,21,50,"The website demonstrates a moderate use of dark patterns. The cookie consent banner exhibits some asymmetry in the prompts, with the 'Accept all cookies' button being more prominent than the 'Cookies settings' option. Users are subtly influenced towards accepting all cookies rather than customizing settings. However, the website does not heavily restrict user choices or hide vital information beyond this instance.",Aesop
+,,,,,,,,Mecca
+7,5,6,7,6,31,50,"The Typo website demonstrates several dark patterns, with particularly notable instances of asymmetric design favoring user login and exclusive offers. Information such as perks is slightly hidden, and the site employs covert techniques to encourage particular actions like logging in and joining for free delivery.",Typo
+,,,,,,,,Cotton On
+8,7,6,9,10,40,50,"The website employs several prominent dark patterns. Choices are notably biased, covert techniques influence user decisions, and there's a mix of truthful and misleading information. Crucial information is mostly hidden or revealed late, and access is highly restrictive without clear alternatives.",Jay Jays
+8,5,6,7,4,30,50,"The website employs several dark patterns, particularly in the areas of asymmetry and hidden information. The presentation is noticeably biased towards certain choices, and important terms and conditions regarding promotions might not be immediately clear.",Supre
+,,,,,,,,The Good Guys
+6,4,5,7,5,27,50,"The website exhibits several dark patterns, particularly in Asymmetric and Hides Information categories. The presentation favors certain elements like hot deals, while some necessary information, such as terms and conditions for offers, is not immediately available.",Appliances Online
+,,,,,,,,Autobarn
+6,5,4,7,3,25,50,"The website demonstrates several dark patterns, especially in the Asymmetric and Hides Information categories. The use of a large, time-sensitive sale banner can create urgency, while the cookie consent popup gives an impression of limited control, despite the availability of the privacy policy. Overall, the design subtly biases user decisions and occasionally obscures information, but is not highly restrictive.",Anaconda
+,,,,,,,,Macpac
+6,4,5,6,2,23,50,"The website presents noticeable asymmetry in choices, with 'Accept All Cookies' being more prominent than 'Cookies Settings'. There are some subtle influences on user decisions and a moderate level of hidden information, though it is not highly restrictive.",Kathmandu
+,,,,,,,,Mountain Designs
+,,,,,,,,BCF
+2,1,2,2,2,9,50,"The website interface shown does not employ significant dark patterns. The presentation is generally balanced, and there is no evident manipulation or hiding of information. User choices are not restricted, and information appears to be straightforward and accessible.",Torpedo7
+6,5,4,7,5,27,50,"The website exhibits several dark patterns, particularly in terms of asymmetric presentation and hiding information. The design mildly influences user decisions through prominent 'Shop Now' buttons and can obscure detailed information until further browsing.",Rivers
+,,,,,,,,Just Jeans
+,,,,,,,,Jeanswest
+8,5,7,7,6,33,50,"The website employs several dark patterns, with particularly high scores in the Asymmetric and Deceptive categories. The options presented for cookies are noticeably biased towards acceptance, and some information is somewhat obscured or requires additional steps to access.",Bardot
+7,6,5,6,8,32,50,"The website utilizes several dark patterns, predominantly biased presentations, restricted choices, and hidden information. The notice suggests Australia and New Zealand despite the location detection pointing to Canada, and the 'Ignore' button is less prominent than the country choices.",Decjuba
+,,,,,,,,Cue
+7,6,4,8,8,33,50,"The website employs several dark patterns, particularly in terms of asymmetry and restricted access. The presentation is biased as it requires users to disable privacy measures or request to be unblocked, obscuring the reason for the block, which adds to user frustration and confusion.",Portmans
+6,5,4,5,4,24,50,"The website employs several dark patterns, particularly in the Asymmetric category, where the alternative option (Cancel) is less visually prominent compared to the preferred action (OK) to switch to the local store. This design may subtly steer users towards a specific choice. However, crucial information is not entirely hidden, and there are still user choices available, albeit with slight biases.",Forever New
+,,,,,,,,Sussan
+,,,,,,,,Dotti
+,,,,,,,,OshKosh
+,,,,,,,,Adairs
+3,2,2,4,3,14,50,"The website employs mild dark patterns. The overall presentation is relatively balanced with minor biases. Some information is slightly delayed or requires additional steps to access, but there aren't severe restrictions or misleading elements.",Sheridan
+5,4,5,6,7,27,50,"The website employs several dark patterns, with particularly high scores in the Restrictive and Hides Information categories. The presentation of the discount offers is somewhat biased, urging users to sign in for the discount with limited alternatives readily apparent. Important information like the terms and conditions for the discount isn't prominently visible.",Bed Bath N' Table
+,,,,,,,,Freedom
+4,5,6,7,2,24,50,"The website incorporates some dark patterns, primarily in the Hides Information and Deceptive categories. There is a noticeable bias in presentation towards enticing offers, but user choices are not overly restricted. Key information, such as detailed terms and conditions, could be more transparent.",Fantastic Furniture
+,,,,,,,,Amart Furniture
+8,5,6,7,3,29,50,"The website employs several dark patterns. The presentation is noticeably biased with a strong emphasis on the 'Ok' button for cookie consent, which affects the Asymmetric score. There are subtle covert techniques and mildly deceptive elements, particularly in how information is presented and requiring user action to adjust settings. Important information is somewhat obscured but not completely hidden. There are some restrictions on user choices but alternatives are available.",IKEA Australia
+9,5,2,8,10,34,50,"The website employs several dark patterns. The presentation is extremely biased, notably asymmetric, and very restrictive as it completely blocks access. Important information about why the user is blocked is not readily available, although it appears to be straightforward. Thus, it scores higher in hiding information and restrictiveness categories.",Forty Winks
+6,7,3,2,4,22,50,"The website exhibits several dark patterns, particularly in the Asymmetric and Covert categories. The emphasis on the countdown timer creates a sense of urgency, potentially prompting users to make quick decisions. However, there is no significant use of deceptive information or hiding critical information.",Snooze
+,,,,,,,,Harvey Norman Furniture
+4,6,5,6,3,24,50,"The website demonstrates moderate use of dark patterns, with particular emphasis on covert techniques and hiding information. Some information is delayed or requires additional steps to access, and there is noticeable use of design elements to subtly influence user behavior. The site is not overly restrictive, but some bias in presentation and information access is observed.",Nick Scali
+8,7,6,9,9,39,50,"The website heavily employs dark patterns, particularly in the Hides Information and Restrictive categories. The presentation is asymmetric and covert, leading to a notably misleading and restrictive user experience. Users are blocked without clear reasons, and crucial information on how to resolve the issue is obscured.",Brosa
+1,2,2,1,4,10,50,"The website does not employ significant dark patterns. The main interaction is straightforward and required for security verification, causing minimal user inconvenience or manipulation.",Temple & Webster
+,,,,,,,,Interior Secrets
+9,6,7,8,9,39,50,"The website heavily employs dark patterns, particularly in the Asymmetric, Hides Information, and Restrictive categories. The user's choices are extremely limited and biased towards preventing access, with key information about the blocking criteria obscured.",Matt Blatt
+6,5,4,7,3,25,50,"The website showcases notable use of dark patterns. It has a noticeably biased presentation with choices that are not equally prominent, some subtle design influences, and important information that may be somewhat obscured or delayed. However, there are fewer restrictions in user choices, and the information presented is not completely deceptive.",Sleeping Duck
+3,2,2,4,2,13,50,"The website has a generally user-friendly layout with mild dark patterns. There is a slight bias in the asymmetry of options, and some information requires additional steps to access. However, the overall level of dark patterns is relatively low.",Koala
+6,5,3,7,8,29,50,"The website uses several dark patterns, particularly in the Asymmetric, Hides Information, and Restrictive categories. The sign-up prompt is prominently displayed, requiring the user to provide their email to continue, imposing notable restrictions on the user's ability to navigate the website without providing personal information.",Eva
+1,1,1,1,1,5,50,"The website appears transparent and straightforward in its presentation. Information is readily available, and user choices are clear and unrestricted. There are no significant indicators of dark patterns on this page.",Australia Post
+2,0,0,0,3,5,50,"The website shows minimal use of dark patterns. The options are fairly balanced without misleading or hidden information. There is a slight restriction in forcing users to verify their humanity before proceeding, but this is standard for security protocols.",Redbubble
+,,,,,,,,Society6
+8,7,6,9,9,39,50,"The website employs several dark patterns, notably in Restrictive and Hides Information categories. The block message is asymmetric, offering no clear or equal alternatives to pursue further action. It covertly influences user perception of the situation by providing vague reasoning and no detailed options for resolution. Critical information about the actual cause and steps to resolve the block are hidden, creating a highly restrictive experience.",Etsy Australia
+8,5,6,7,9,35,50,"The website exhibits several dark patterns, predominantly in the Restrictive, Asymmetric, and Hides Information categories. The user interface strongly favors signing up or logging in, with crucial information potentially obscured and user choices limited.",Scoopon
+0,0,0,0,0,0,50,"The website is currently not accessible due to a protocol error, therefore no dark patterns can be evaluated at this time.",Groupon Australia
+0,0,0,0,0,0,50,"The provided image does not display any elements of a website that can be analyzed for dark patterns. Hence, no dark patterns were detected in this analysis.",DealsDirect
+5,3,5,6,4,23,50,"The website employs moderate levels of dark patterns, with notable emphasis on hiding information and partial deceptive elements. Though choices are available, there is a tendency toward mildly biased presentation and some covert techniques.",CrazySales
+,,,,,,,,Kogan Australia
+,,,,,,,,MyDeal
+,,,,,,,,Dick Smith Australia
+,,,,,,,,The Good Guys Australia
+7,5,6,8,7,33,50,"The website exhibits several dark patterns, with particularly high scores in Hides Information and Asymmetric categories. The promotion seems biased towards enticing users to join the membership program, with key terms and exclusions presented in smaller, less noticeable text. The information about exclusions and conditions for the $30 off coupon is somewhat obscured, and the offer is restrictive, applying only to certain products and requiring membership.",JB Hi-Fi Australia
+3,1,2,4,6,16,50,"The website employs some dark patterns but to a limited extent. The most notable issue is the restriction requiring users to solve a CAPTCHA, which imposes a minor barrier. There is mild asymmetry in the presentation, but the information is mostly transparent and not misleading.",Harvey Norman Australia
+7,6,6,9,9,37,50,"The website employs several dark patterns, with particularly high scores in Hides Information and Restrictive categories. There is considerable asymmetric presentation and covert influence aimed at obscuring the reasons for the block. The information given is somewhat deceptive and obscures the true nature of the restriction.",Bing Lee
+7,4,5,6,4,26,50,"The website uses several dark patterns, notably in the Asymmetric category, where the presentation is noticeably biased toward promoting specific offers. Covert techniques are mildly present, with some elements designed to influence users subtly. Information is somewhat hidden, with promotional details and exclusions in small text.",Retravision
+,,,,,,,,Appliances Online Australia
+3,5,4,6,2,20,50,"The website shows a few dark patterns, particularly in the Hides Information category. While the asymmetry and covert categories have moderate scores, the deceptive elements are also present but milder. The site does not highly restrict user choices.",Big Brown Box
+3,2,2,4,2,13,50,"The website generally maintains transparency and balance in presenting information and choices to users. Although there is some delay in accessing further information and mild bias in the presentation of options, dark patterns are not prominently employed. The user experience appears largely straightforward with minimal restrictions.",Winning Appliances
+,,,,,,,,Gadget City
+,,,,,,,,Camera House
+,,,,,,,,Ted's Cameras
+,,,,,,,,CameraPro
+4,3,5,6,2,20,50,"The website displays some dark patterns, particularly in the Hides Information and Deceptive categories. There is a slight bias in presentation and some information is not immediately clear. However, there are no strong restrictions on user choices, and overall the manipulation techniques used are relatively mild.",Digital Camera Warehouse
+,,,,,,,,Georges Cameras
+5,5,2,8,7,27,50,"The warning page employs some dark patterns. 'Hides Information' scores high since information on bypassing the page is buried under the 'Advanced' button. The 'Restrictive' score is notable as user choices are geared towards going 'Back to safety'. The presentation is moderately biased towards not proceeding further and includes subtle influence through security warnings without misleading information, leading to moderate 'Asymmetric' and 'Covert' scores.",Andrews Communications
+,,,,,,,,Radio Parts
+,,,,,,,,Jaycar
+4,3,5,7,6,25,50,"The website uses several dark patterns, with moderate scores across multiple categories. There is a noticeable bias in the presentation of choices, some hidden information, and certain restrictions forcing users to act in specific ways.",Altronics
+,,,,,,,,Element 14
+,,,,,,,,Core Electronics
+,,,,,,,,RS Components
+,,,,,,,,Mouser Electronics
+,,,,,,,,Digikey
+2,3,3,2,7,17,50,"The website employs a few dark patterns, primarily in the Restrictive category. Users have limited freedom in their choices as they must complete the 'security check' to proceed. The presentation is mostly straightforward with minor covert and deceptive elements but is not heavily biased or hiding crucial information.",Sparkfun
+,,,,,,,,Adafruit
+,,,,,,,,Little Bird Electronics
+0,0,0,0,0,0,50,"The website cannot be reached, therefore no dark patterns are detected or assessed. This may be a temporary issue or the website may have moved permanently to a new address.",Element 14 Australia
+,,,,,,,,Arduino Australia
+,,,,,,,,Microchip
+2,1,1,2,0,6,50,"The website employs minimal dark patterns. Choices appear symmetrical and transparent, with no notable use of deceptive or covert techniques. Information is readily available and there are no significant restrictions on user actions.",Texas Instruments
+,,,,,,,,Seeed Studio
+3,2,2,2,2,11,50,"The website has minimal use of dark patterns. While there is slight emphasis on the sale with a large banner, other information and navigation options are readily accessible. The design is largely straightforward and does not employ significant manipulative techniques.",Pololu
+,,,,,,,,RobotShop
+,,,,,,,,Robotics Australia
+,,,,,,,,ServoCity
+4,3,2,5,2,16,50,"The website employs a few dark patterns, primarily in the areas of Asymmetric design and Hiding Information. Some options or alternatives might be less prominently displayed, and certain information requires additional navigation steps to access.",Nuts and Volts
+5,4,6,5,7,27,50,"The popup contains several dark patterns. The presentation mildly biases the user's actions, employs some subtle influencing techniques, and contains elements that could be considered misleading. It partially hides information and imposes certain restrictive choices on the user.",Make
+,,,,,,,,Digi-Key Australia
+4,3,4,5,2,18,50,"The website has mild utilization of dark patterns with bias in choice presentation and some hidden information or misleading elements, though not heavily manipulative or restrictive.",RS Components Australia

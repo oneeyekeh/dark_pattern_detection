@@ -1,0 +1,3616 @@
+[
+    {
+        "website": "Home Depot",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 19,
+                "summary": "The website exhibits some mild dark pattern characteristics, with noticeable bias in the promotion of specific deals, slight deception regarding offer conditions, and some hidden information that might impede user decision-making."
+            }
+        }
+    },
+    {
+        "website": "ASOS",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 20,
+                "summary": "The website exhibits noticeable bias in choice presentation, particularly with promotional messages that may divert attention. There are some subtle influences and minor omissions in information, suggesting that although it is not highly deceptive, the design can lead to user confusion in decision-making."
+            }
+        }
+    },
+    {
+        "website": "Amazon",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 15,
+                "summary": "The website demonstrates mild dark patterns, with some biases in choice prominence and slight obscuring of information. Users face moderate restrictions and cues that may influence their actions subtly."
+            }
+        }
+    },
+    {
+        "website": "Rakuten",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 24,
+                "summary": "The website exhibits noticeable bias in presenting options, where certain promotions are prominently highlighted over alternatives. There are some subtle design elements that influence user decisions, and the information provided can be misleading or incomplete. Users may face restrictions in their choices, pushing them towards specific actions without clear alternatives."
+            }
+        }
+    },
+    {
+        "website": "Microsoft Store",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits some bias in promoting certain products over alternatives, with minor deceptive elements in pricing and options. Relevant details are somewhat accessible but may require extra steps, limiting user freedom to some extent."
+            }
+        }
+    },
+    {
+        "website": "Toys R Us",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 1
+                },
+                "Hides Information": {
+                    "score": 2
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 11,
+                "summary": "The website displays some mild biases in its choice presentation and restrictions, while information is mostly clear and accurate."
+            }
+        }
+    },
+    {
+        "website": "Aliexpress",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 5
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The webpage exhibits some noticeable asymmetric design elements that favor promotional deals. There are subtle covert influences, particularly around notifications and promotions. While most information is straightforward, some aspects might be misleading regarding the pricing discounts. Overall, users face moderate restrictions in their choices, with incentives steering them towards specific actions."
+            }
+        }
+    },
+    {
+        "website": "Alibaba",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 18,
+                "summary": "The website exhibits some mild asymmetry in choices, with certain products being more prominent. There are subtle influences on user decisions, but the information is mostly clear. However, some essential information may require extra steps to find, and there are noticeable restrictions on choices available to users."
+            }
+        }
+    },
+    {
+        "website": "Kohl's",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits noticeable biases in choice presentation, utilizes subtle design elements to influence decisions, contains some misleading aspects in promotional displays, and has certain information that may require extra steps to uncover. Overall, it creates a somewhat restrictive user experience."
+            }
+        }
+    },
+    {
+        "website": "Target",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 17,
+                "summary": "The website exhibits some mild dark patterns, with noticeable bias in the presentation of choices regarding pumpkin spice products and some hidden details in promotions. However, the information provided is mostly accurate, and users retain a reasonable degree of choice."
+            }
+        }
+    },
+    {
+        "website": "Sears",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits noticeable asymmetry in presenting promotional offers, particularly favoring military and first responders. Some covert elements subtly influence choices but are not entirely misleading. Information is mostly clear, with minor obscuring of important details. There are slight restrictions on user choices but alternatives are generally present."
+            }
+        }
+    },
+    {
+        "website": "Shopify",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 17,
+                "summary": "The website exhibits mild asymmetric choices, some covert influences, and lightly restrictive elements. There are minor issues with hidden information, but overall, information presented is largely clear and accurate."
+            }
+        }
+    },
+    {
+        "website": "Overstock",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 4
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 26,
+                "summary": "The website exhibits noticeable asymmetric choices with the email signup prominently featuring a discount. Covert design elements are present that subtly encourage signing up, while some information may be misleading regarding the nature of the offers. Important information is somewhat delayed, and users face some restrictions in their options when prompted to sign up."
+            }
+        }
+    },
+    {
+        "website": "eBay",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 12,
+                "summary": "The website exhibits minor biases in choice presentation and some additional elements that could subtly influence users. Overall, it maintains a relatively transparent user experience with accessible information."
+            }
+        }
+    },
+    {
+        "website": "HP",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 14,
+                "summary": "The website displays some mild asymmetry in choices and a few hidden elements, but overall is straightforward in its presentation and user options."
+            }
+        }
+    },
+    {
+        "website": "Lenovo",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 1
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 11,
+                "summary": "The website demonstrates some mild biases and hidden information elements, but overall it maintains a reasonable level of transparency and user choice."
+            }
+        }
+    },
+    {
+        "website": "Uniqlo",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 7
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 25,
+                "summary": "The website employs some dark patterns that bias the user's choices, particularly with the prominence of the sign-up offer. There are mild deceptive elements and some information is obscured, which could lead to user confusion."
+            }
+        }
+    },
+    {
+        "website": "Dell",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 5
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 21,
+                "summary": "The website exhibits mild to moderate dark patterns, particularly in terms of hiding information regarding cookie usage and opting out of non-essential cookies. There is a noticeable bias towards accepting all cookies, although alternative options are present."
+            }
+        }
+    },
+    {
+        "website": "Nike",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 14,
+                "summary": "The website exhibits mild bias in visibility of choices, slight use of covert design elements to influence user decisions, and some restrictions on alternatives. Overall, it presents a user-friendly design with some areas for improvement in transparency and choice visibility."
+            }
+        }
+    },
+    {
+        "website": "Reebok",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 15,
+                "summary": "The website exhibits some mild dark patterns, particularly in asymmetric prominence of choices and hidden information. However, the overall misinformation is minimal, and users retain a reasonable level of freedom in their choices."
+            }
+        }
+    },
+    {
+        "website": "Hollister",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 17,
+                "summary": "The website shows mild bias in choices, with a promotion that is somewhat prominent. Some covert design elements subtly influence user decisions, but no significantly deceptive tactics are evident. Key details about the promotion may require further exploration, contributing to a moderate level of restricted user freedom."
+            }
+        }
+    },
+    {
+        "website": "Adidas",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 1
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 12,
+                "summary": "The website has some mild asymmetric choices with the prominence of certain products over others. Information is generally clear, but some important details might require more searching. There are no glaring deceptive practices, and the design doesn\u2019t heavily restrict user choices."
+            }
+        }
+    },
+    {
+        "website": "Lululemon",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 1
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 13,
+                "summary": "The website exhibits mild biases in choices and some restrictions, with certain information not being immediately accessible. Overall, it maintains a mostly transparent approach."
+            }
+        }
+    },
+    {
+        "website": "Forever 21",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website exhibits moderate bias in choices presented, with some covert design elements influencing user decisions. While there is some clear information, crucial details regarding promotions may not be immediately accessible, creating a slightly restrictive user experience."
+            }
+        }
+    },
+    {
+        "website": "Ulta",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website displays moderate biases in choice visibility and offers, with some information obscured or less prominent. There are mild indirect influences on user actions and noticeable restrictions on access to rewards and deals."
+            }
+        }
+    },
+    {
+        "website": "Fenty Beauty",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 4
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 7
+                }
+            },
+            "overall_assessment": {
+                "total_score": 28,
+                "summary": "The website exhibits noticeable asymmetric choices, particularly in the prominence of the email subscription compared to the 'I'll Pass' option. Some covert techniques subtly encourage users to subscribe, and while not entirely deceptive, the messaging could cause some confusion. Important information related to the discount and terms is somewhat obscured, and users experience noticeable restrictions in their options."
+            }
+        }
+    },
+    {
+        "website": "Puma",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 7
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 25,
+                "summary": "The website exhibits noticeable bias in presenting choices, as the promotion emphasizes significant savings but conditions are somewhat hidden. Some design elements subtly influence the user's decisions, while crucial details regarding exclusions and conditions are not immediately visible."
+            }
+        }
+    },
+    {
+        "website": "Wish",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 8
+                },
+                "Covert": {
+                    "score": 6
+                },
+                "Deceptive": {
+                    "score": 4
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 7
+                }
+            },
+            "overall_assessment": {
+                "total_score": 30,
+                "summary": "The website employs notable asymmetric choices regarding subscription, with the 'No Thanks' option less prominent. Covert design elements subtly influence user decisions, and while there's some misleading information about promotions, it's not entirely false. Important details about the discount are somewhat obscured, and there are noticeable restrictions in choice regarding promotional emails."
+            }
+        }
+    },
+    {
+        "website": "ColourPop",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 24,
+                "summary": "The website exhibits noticeable bias in choice prominence (especially in promotions), employs some covert techniques to influence decision-making, contains partial truths, and obscures certain information while having restrictions on product quantities and choices."
+            }
+        }
+    },
+    {
+        "website": "Amazon Japan",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 24,
+                "summary": "The website shows noticeable biases in choices, particularly with sign-in prompts and address changes that may lead to confusion. Some information is subtly hidden, and users face restrictions on shipping options unless they change the delivery address."
+            }
+        }
+    },
+    {
+        "website": "Morphe",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 7
+                }
+            },
+            "overall_assessment": {
+                "total_score": 25,
+                "summary": "The website exhibits noticeable asymmetric choices, with the discount offer being more prominent than the option to decline. There are some covert persuasive elements, suggesting urgency but not fully deceptive. Important information about the discount is somewhat obscured, and there are restrictions on user choice regarding email submission for discounts."
+            }
+        }
+    },
+    {
+        "website": "Tokopedia",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website displays some mild to moderate dark patterns. There is noticeable bias in the presentation of options, with promotional content potentially obscuring other choices. Certain information is slightly obscured, necessitating additional steps to access it, and there are some restrictions on user choices."
+            }
+        }
+    },
+    {
+        "website": "The Body Shop",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 18,
+                "summary": "The website displays some mild asymmetric bias and lack of transparency regarding decisions, with a few restrictions on user choices. Information accessibility is somewhat hidden."
+            }
+        }
+    },
+    {
+        "website": "Charlotte Tilbury",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website displays noticeable biases in choice presentation, and some product information is somewhat obscured or less accessible. There are also elements that may subtly influence decisions, but overall, clarity and alternatives are somewhat maintained."
+            }
+        }
+    },
+    {
+        "website": "Bukalapak",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 24,
+                "summary": "The website displays noticeable biases in choice presentation and employs some covert methods to influence decisions. It contains partial misinformation and obscures critical information, while also restricting user options to some extent."
+            }
+        }
+    },
+    {
+        "website": "Birchbox",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 7
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 26,
+                "summary": "The website exhibits noticeable asymmetric presentation of choices, emphasizing a discount in exchange for email sign-up. Covert techniques are present, subtly pushing for user engagement. Some misleading aspects in the promotional text create partial truths. Important information is accessible but not immediately clear, leading to a somewhat restrictive user experience."
+            }
+        }
+    },
+    {
+        "website": "Pat McGrath",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website shows some mild to moderate dark patterns, including slight asymmetry in choice presentation and some hidden influences regarding cookie consent and location settings."
+            }
+        }
+    },
+    {
+        "website": "Snapdeal",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits noticeable biases in choice presentation, with slight covert design influences and some information that could lead to confusion. There are moderate restrictions on user actions, but overall, the layout is relatively straightforward."
+            }
+        }
+    },
+    {
+        "website": "Myntra",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits noticeable asymmetric choices, where promotional offers draw more attention than alternative options. There are subtle design elements influencing user decisions, while some information regarding offers may not be immediately clear. The overall experience shows certain restrictions, but users still have access to multiple alternatives."
+            }
+        }
+    },
+    {
+        "website": "Ajio",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 21,
+                "summary": "The website exhibits mild to moderate biases in its presentation of options, with some use of design elements that may subtly influence user choices. A few pieces of information are not entirely transparent, and while not severely misleading, they could cause some confusion. Users encounter certain restrictions but still have available alternative choices."
+            }
+        }
+    },
+    {
+        "website": "ShopClues",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 4
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website exhibits moderate dark patterns, with some asymmetry in choice presentation and a mild influence in design elements. Important information is somewhat obscured, especially regarding offers and pricing."
+            }
+        }
+    },
+    {
+        "website": "Victoria's Secret",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 18,
+                "summary": "The website demonstrates some mild biases in choice prominence and certain information is somewhat obscured. While the information presented is largely accurate, there are slight manipulative design elements present."
+            }
+        }
+    },
+    {
+        "website": "BigBasket",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 21,
+                "summary": "The website demonstrates noticeable biases in choices and some obfuscation of information. While there are elements that could mislead users, there is not an overwhelming amount of deceptive practices present."
+            }
+        }
+    },
+    {
+        "website": "Reliance Digital",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 4
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 26,
+                "summary": "The website displays noticeable biases in presenting choices, particularly with prominent product offers, while some important information, such as terms and conditions related to discounts and offers, is hidden or requires extra steps to access. There are elements that subtly influence user decisions without being overtly deceptive."
+            }
+        }
+    },
+    {
+        "website": "Dunzo",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 24,
+                "summary": "The website displays noticeable bias in options offered and uses covert design techniques that could subtly influence user choices. Some information is obscured, and there are restrictions on user choices, though not to an extreme extent."
+            }
+        }
+    },
+    {
+        "website": "Naaptol",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 4
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits noticeable asymmetry in the presentation of choices, particularly in promotion and product visibility. Some design elements subtly influence user decisions, suggesting moderate covert manipulation. While the information is mostly clear, certain aspects may be misleading or not fully transparent. Users have some degree of restrictions in selecting options, indicating a moderate level of control."
+            }
+        }
+    },
+    {
+        "website": "Grofers",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 20,
+                "summary": "The interface displays some asymmetric choices in delivery location options, subtly guiding users toward location detection, which could limit choice visibility. It uses some covert techniques, like urging users to 'Detect my location,' while information is partially visible but could be obscured. There are moderate restrictions on how users interact with location settings, causing potential frustration."
+            }
+        }
+    },
+    {
+        "website": "Nykaa",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 21,
+                "summary": "The website shows some degree of bias in presenting options, with some choices being less prominent. There is a mild use of covert elements that may subtly influence user decisions. While the information presented is mostly accurate, there are some partial truths. Important details may require additional steps to uncover, and there are noticeable restrictions on user choices."
+            }
+        }
+    },
+    {
+        "website": "Craftsvilla",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website exhibits a mild bias in the prominence of offers displayed. Some design elements have a subtle influence on user decisions, while certain misleading aspects and obscured information can lead to confusion. There are moderate restrictions in the choices presented to users."
+            }
+        }
+    },
+    {
+        "website": "Croma",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 4
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 20,
+                "summary": "The website has a mild to moderate level of dark patterns, primarily in asymmetric choices and restrictions. Users may feel subtly influenced and encounter some misleading information regarding offers."
+            }
+        }
+    },
+    {
+        "website": "BabyOye",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits noticeable asymmetric choices, with the promotional offer prominently featured while alternative options are less visible. Covert techniques subtly influence user decisions, especially regarding the use of promotional codes. Some misleading or incomplete information may create confusion, particularly about offers. Important details are somewhat obscured or not immediately accessible. There are mild restrictions on user choices but alternatives are still available."
+            }
+        }
+    },
+    {
+        "website": "FirstCry",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits noticeable bias in choice presentation, with promotions prominently displayed while alternative options are less intuitive. There are some covert design elements influencing user decisions, although they are not entirely misleading. Information is somewhat accessible but requires extra steps to unveil key details, leading to a moderate level of restrictions on user choices."
+            }
+        }
+    },
+    {
+        "website": "Zivame",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website shows a noticeable bias in its promotional choice displays, while some design elements subtly influence user decisions. Information about promotions is somewhat fragmented, requiring extra steps to comprehend fully, and while there's some restrictions on choices, users still have alternatives."
+            }
+        }
+    },
+    {
+        "website": "ASDA",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 18,
+                "summary": "The website displays some mild bias in options, subtle design influences, and partial obfuscation of information. Overall, while designed to promote specific choices, crucial information is not entirely hidden or misleading."
+            }
+        }
+    },
+    {
+        "website": "PrettyLittleThing",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 8
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 4
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 28,
+                "summary": "The website exhibits noticeable asymmetric bias towards the promotional offer. Covert techniques are present but not highly manipulative. Some misleading information and important details are obscured, but alternatives are still available. Overall, the user may feel subtly pushed towards specific choices."
+            }
+        }
+    },
+    {
+        "website": "Clovia",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website displays some asymmetric choices with promotional offers that may not be balanced between options. There are covert tactics used to promote specific deals, and while there is some misleading information regarding the urgency of offers, it is not overwhelmingly deceptive. Important information is presented but may not be immediately clear, and there are some restrictions on the promotional codes available."
+            }
+        }
+    },
+    {
+        "website": "Shein",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 4
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 21,
+                "summary": "The website shows noticeable asymmetry in choices, with subscription benefits more prominently displayed. Some covert elements subtly influence user decisions, and while information is mostly clear, a few crucial details are less accessible or require more effort to locate."
+            }
+        }
+    },
+    {
+        "website": "Next",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 18,
+                "summary": "The website exhibits mild biases in choices and some covert design elements that could influence user decisions. Information is somewhat obscured, and there are moderate restrictions on user freedom. Overall, the user experience is negatively impacted by these elements."
+            }
+        }
+    },
+    {
+        "website": "David Jones",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 21,
+                "summary": "The website has noticeable asymmetry in presenting sale options, with specific categories highlighted more prominently. Covert influences are present, but not overly manipulative. Some information about the deals may cause slight confusion, and while restrictions exist in navigation, alternative choices are still available."
+            }
+        }
+    },
+    {
+        "website": "Boots",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website exhibits noticeable biases in choice prominence, with some covert techniques used to influence decisions. While information is mostly accurate, some aspects are less accessible, and there are moderate restrictions on user choices."
+            }
+        }
+    },
+    {
+        "website": "Superdrug",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 24,
+                "summary": "The website shows noticeable bias in promoting specific offers while alternatives are less prominent. Some design elements subtly influence user choices without being entirely deceptive, though there is a presence of partial truths. Important details can be somewhat obscured, and users face noticeable restrictions while making choices."
+            }
+        }
+    },
+    {
+        "website": "JB Hi-Fi",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "This website employs some mild dark patterns. There is a moderate bias in the prominence of choices, especially concerning the clearance sale. Some information is obscured and requires users to seek it out, particularly regarding conditions for discounts. While not overtly deceptive, certain promotional messages could lead to confusion about terms and conditions."
+            }
+        }
+    },
+    {
+        "website": "Morrisons",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits mild biases in choice prominence and some covert design elements that subtly influence decisions. Information is mostly clear, but some important details may be obscured or require further exploration, leading to a moderate level of restriction in user choices."
+            }
+        }
+    },
+    {
+        "website": "Lidl",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 20,
+                "summary": "The website exhibits a mild bias towards certain choices (Asymmetric) and employs some covert techniques that may influence users' decisions. Information about savings is accessible but not clearly highlighted, making it somewhat difficult to locate essential details (Hides Information). The overall freedom in user choices is restricted, pushing for a specific action with limited alternatives."
+            }
+        }
+    },
+    {
+        "website": "Catch",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 7
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 25,
+                "summary": "The website displays moderate to high biases in various categories, particularly in asymmetric choices and restricted options, which may limit user decision-making."
+            }
+        }
+    },
+    {
+        "website": "Target Australia",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 1
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 13,
+                "summary": "The website exhibits mild asymmetric and restrictive features, with some hidden information but overall transparency in offers and choices."
+            }
+        }
+    },
+    {
+        "website": "The Iconic",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits mild bias in choices and some misleading information in terms of promotions. Important information may be obscured or presented in a way that requires extra effort to understand, alongside noticeable restrictions on user decisions."
+            }
+        }
+    },
+    {
+        "website": "Woolworths",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 15,
+                "summary": "The website exhibits some mild bias in choices and slight misleading elements, while information is somewhat obscured and restrictions exist but are not overly severe."
+            }
+        }
+    },
+    {
+        "website": "Kmart Australia",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 18,
+                "summary": "The website shows some mild to noticeable biases in choices presented, with certain options highlighted more than others. There are slight covert influences and some information that may not be readily accessible, which could lead to confusion. Users have some restrictions, but alternatives remain visible."
+            }
+        }
+    },
+    {
+        "website": "eBay Australia",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The eBay website has noticeable asymmetric choices, particularly with the promotion of eBay Plus. Some covert techniques are used to influence decisions, but there is a lack of heavy manipulation. While the information is mostly accurate, it can be misleading in certain aspects, especially regarding savings. Key information is somewhat accessible, but not always immediately clear, and there are some limitations on user choices, though alternatives do exist."
+            }
+        }
+    },
+    {
+        "website": "Chemist Warehouse",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website shows some bias in presenting choices, especially prominent items. There are subtle design elements that influence decisions, along with partial truths regarding pricing or discounts. Important information is somewhat obscured, and while users have options, there are notable restrictions in their choices."
+            }
+        }
+    },
+    {
+        "website": "Myer",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 19,
+                "summary": "The website shows mild asymmetric prominence in choices, with some covert design elements encouraging specific actions. There is room for clarity in the information provided, which may lead to some confusion, and while there are restrictions, alternatives remain accessible."
+            }
+        }
+    },
+    {
+        "website": "Rebel Sport",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 17,
+                "summary": "The website has some noticeable bias in choices and mild restrictions on options. There are elements of hidden information that require more effort to reveal, but overall transparency in user choices remains. The information presented is generally accurate but may lead to some confusion."
+            }
+        }
+    },
+    {
+        "website": "Supercheap Auto",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website displays some asymmetric choices and mild covert influences, with certain promotions highlighted more prominently. There is partial transparency in pricing and product details, but some important information may require additional steps to access."
+            }
+        }
+    },
+    {
+        "website": "Cotton On",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 14,
+                "summary": "The website displays some mild asymmetric choices with the promotional offers standing out more than the categories themselves. There are subtle design elements that slightly influence user decisions, but overall, the information presented is mostly clear and straightforward with minimal restrictions."
+            }
+        }
+    },
+    {
+        "website": "Aesop",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 2
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 2
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 11,
+                "summary": "The website presents product choices clearly with minimal manipulation or bias, but some restrictions on options may affect user experience."
+            }
+        }
+    },
+    {
+        "website": "The Good Guys",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website features several promotional deals, with some products receiving more visual prominence than others. While some features may subtly guide user decisions, overall information is not heavily obscured but could still lead to some confusion about the best deals."
+            }
+        }
+    },
+    {
+        "website": "Mecca",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 15,
+                "summary": "The website exhibits mild asymmetric and covert choices with some hidden influences, but overall information is mostly clear. Some aspects of navigation may not be intuitively prominent, leading to moderate restrictions in user choices."
+            }
+        }
+    },
+    {
+        "website": "Appliances Online",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 19,
+                "summary": "The website exhibits some mild to moderate dark patterns, with a few noticeable biases in the presentation of choices and subtle influences on user decisions. Information is mostly accessible, though there are areas where crucial details may be obscured or could mislead users."
+            }
+        }
+    },
+    {
+        "website": "Bonds",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 24,
+                "summary": "The website exhibits noticeable biases in options presented to users, particularly regarding the promotional pop-up. It uses covert techniques with a friendly welcome message but has some misleading aspects and hides information regarding the rewards program details until users engage with the prompt."
+            }
+        }
+    },
+    {
+        "website": "Supre",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 19,
+                "summary": "The website displays some mild to moderate dark patterns, particularly in the prominence of promotional offers and the visibility of alternative choices. Important information is present but not always immediately accessible, and certain design elements subtly influence user decisions."
+            }
+        }
+    },
+    {
+        "website": "BCF",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 20,
+                "summary": "The website shows noticeable bias in product promotion and uses some covert techniques to influence user decisions. However, the information provided is mostly accurate, with some details that require additional steps to uncover."
+            }
+        }
+    },
+    {
+        "website": "Typo",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 21,
+                "summary": "The website displays noticeable asymmetric choices in terms of promotional elements, with the sale prominently featured. There are some covert design influences encouraging sales, and while most information is accurate, a few details could be misleading. Some important information is not immediately clear, and although restrictions on choices exist, users still have a variety of options."
+            }
+        }
+    },
+    {
+        "website": "Politix",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 1
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 13,
+                "summary": "The website exhibits mild asymmetric choices, subtle covert techniques, minimal misleading information, some information that is not immediately accessible, and moderate restrictions on user choices."
+            }
+        }
+    },
+    {
+        "website": "Seed Heritage",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 24,
+                "summary": "The website displays noticeable and somewhat manipulative design choices that favor certain categories while making other options less prominent. Some information appears misleading or obscured, leading to a less transparent user experience."
+            }
+        }
+    },
+    {
+        "website": "Saba",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 15,
+                "summary": "The website shows some mild asymmetric choices, and information about the sale is visible but could be more prominently displayed. There are slight covert design influences present. Overall, while there are some restrictions on user choices, they aren't overly manipulative."
+            }
+        }
+    },
+    {
+        "website": "Gorman",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 7
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 25,
+                "summary": "The website employs noticeable asymmetric design by highlighting subscription benefits while making alternative choices less visible. Covert influences are present but not entirely deceptive. Some information is delayed or obscured, and there are restrictions on the discount offer based on spending. Overall, the design has manipulative elements without being overtly misleading."
+            }
+        }
+    },
+    {
+        "website": "MJ Bale",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 13,
+                "summary": "The website exhibits mild asymmetric choices and some hidden information but does not significantly manipulate decision-making or present deceptive content. Overall, user choices are somewhat restricted."
+            }
+        }
+    },
+    {
+        "website": "Calibre",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 18,
+                "summary": "The website exhibits mild asymmetric choices and limited information visibility, primarily regarding promotions and alternate selections. Some design elements subtly guide user decisions, but overall information remains mostly transparent."
+            }
+        }
+    },
+    {
+        "website": "Hush Puppies",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 14,
+                "summary": "The website exhibits some mild asymmetric bias in promoting the 'Shop Now' option, with a slight emphasis on the featured product. There are no significant deceptive practices, but some information might not be immediately clear. Overall, users have relative freedom in their choices, but minor restrictions and hidden details are present."
+            }
+        }
+    },
+    {
+        "website": "Betts",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 7
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 25,
+                "summary": "The website exhibits noticeable asymmetric choice bias, where the email sign-up for a discount is emphasized. Covert influences are moderate, as there are elements designed to subtly encourage email signup. Some misleading information exists, particularly if the discount might not be as straightforward as it seems. Crucial details about the offer could be obscured until after signup, and users face noticeable restrictions in accessing discounts without providing their email."
+            }
+        }
+    },
+    {
+        "website": "Platypus Shoes",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 18,
+                "summary": "The website exhibits some mild asymmetric choices and uses covert techniques to influence user decisions, though it presents clear and truthful information overall. Important information is somewhat accessible, and there are moderate restrictions on user choices."
+            }
+        }
+    },
+    {
+        "website": "Aquila",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 17,
+                "summary": "The website displays some mild biases and covert influences, with certain information requiring additional steps to access. Overall, the design is generally straightforward but includes minor manipulative elements."
+            }
+        }
+    },
+    {
+        "website": "Spendless Shoes",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 21,
+                "summary": "The website exhibits noticeable bias in promoting one offer over others and has some obscured information regarding terms and conditions. While it is somewhat transparent, there are mild deceptive elements that could confuse users. Users have restricted choices in redeeming the offers, but some alternatives are still visible."
+            }
+        }
+    },
+    {
+        "website": "Rivers",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 4
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website displays mild to noticeable biases in choice presentation, utilizes some covert techniques to influence decisions, and includes elements of misinformation which may lead to confusion."
+            }
+        }
+    },
+    {
+        "website": "Jeanswest",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 14,
+                "summary": "The website exhibits some mild biases in presenting options, with certain sales prominently displayed. There are minimal deceptive practices, but information about products and sales is accessible. Some restrictions are present in available categories, but overall, user choices aren't severely limited."
+            }
+        }
+    },
+    {
+        "website": "Cue",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 16,
+                "summary": "The website exhibits mild asymmetric biases in item prominence, with some details subtly influencing user choices. Information is mostly accessible, but slight restrictions exist in navigating options."
+            }
+        }
+    },
+    {
+        "website": "Sussan",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 24,
+                "summary": "The website exhibits noticeable asymmetric choices with prominent offers but hides alternatives through pop-ups and visual emphasis on enrollment. Some degree of covert manipulation is present, influencing user decisions without clear transparency. Information is somewhat obscured by the pop-up, and there are restrictions in terms of user flow, encouraging enrollment rather than exploration."
+            }
+        }
+    },
+    {
+        "website": "Bed Bath N' Table",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 17,
+                "summary": "The website shows mild asymmetric choices in the organization of categories, with a noticeable emphasis on 'SALE'. Covert elements subtly influence decisions, but the information is mostly accurate. There is some delay in revealing important information, and restrictions on user choices are present but not overly severe."
+            }
+        }
+    },
+    {
+        "website": "Snooze",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 19,
+                "summary": "The website exhibits mild biases in several categories, with some aspects of information being less accessible and some covert influences present. Overall, it does not severely manipulate the user experience, but there are noticeable elements that could lead to user frustration."
+            }
+        }
+    },
+    {
+        "website": "Freedom",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 15,
+                "summary": "The website exhibits some mild biases in the prominence of choices and includes slightly misleading information. While necessary information is mostly accessible, certain details could be made clearer. The site does not appear overly manipulative or restrictive."
+            }
+        }
+    },
+    {
+        "website": "Forty Winks",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 5
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 20,
+                "summary": "The website demonstrates noticeable bias in presenting product options, with some elements designed to subtly influence decisions. There is partial misinformation regarding pricing, and while most information is accessible, some details could require additional navigation, impacting the user experience."
+            }
+        }
+    },
+    {
+        "website": "Fantastic Furniture",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 7
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website displays noticeable biases in the presentation of choices, particularly with the pricing and promotion layout. Information is somewhat obscured, and there are subtle influences in the design, though it's not heavily manipulative. Overall, the site aims to encourage specific purchasing behaviors without being overtly deceptive."
+            }
+        }
+    },
+    {
+        "website": "Sleeping Duck",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 2
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 14,
+                "summary": "The website employs some mild asymmetric choices and covert influences but is mostly straightforward with its information. Certain details may require extra user actions to obtain, leading to a moderate score in hiding information."
+            }
+        }
+    },
+    {
+        "website": "Nick Scali",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 17,
+                "summary": "The website exhibits mild bias in presenting product choices, subtle influences in its design, and some obscured information about product details and pricing dynamics, making the overall user experience somewhat restrictive but not overtly manipulative."
+            }
+        }
+    },
+    {
+        "website": "Amart Furniture",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 8
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 5
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 7
+                }
+            },
+            "overall_assessment": {
+                "total_score": 30,
+                "summary": "The website's popup for a contest entry exhibits noticeable biases in choice presentation, potential hidden influences, and some misleading aspects about the entry requirements. Information about terms and conditions is not immediately visible, and users face restrictions on choices due to the form's mandatory fields for entry."
+            }
+        }
+    },
+    {
+        "website": "Society6",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 0
+                },
+                "Hides Information": {
+                    "score": 2
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 10,
+                "summary": "The website demonstrates mild bias in the prominence of alternative choices and includes subtle design influences. Necessary information is mostly accessible, but some elements may present choices that aren't immediately obvious."
+            }
+        }
+    },
+    {
+        "website": "Koala",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 19,
+                "summary": "The website demonstrates some mild biases in its design choices, with certain options less prominent. There are minor covert techniques influencing decisions, and some information could be potentially misleading or obscured. Overall, the user experience is somewhat constrained, but not overly restrictive."
+            }
+        }
+    },
+    {
+        "website": "Redbubble",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 7
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 26,
+                "summary": "The website exhibits noticeable asymmetric choices and some hidden influences on user decisions. Information is partially obscured, and users encounter some restrictions on their options."
+            }
+        }
+    },
+    {
+        "website": "CrazySales",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 5
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 24,
+                "summary": "The website exhibits noticeable biases in choices and some misleading elements, potentially making it difficult for users to make fully informed decisions. While the overall design is somewhat user-friendly, there are areas where information could be more transparent."
+            }
+        }
+    },
+    {
+        "website": "DealsDirect",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website displays noticeable biases in emphasizing certain deals and sections of the page over others, while some information is somewhat obscured. There are slight manipulative elements present, and while deceptive practices are not overt, there are aspects that could lead to confusion."
+            }
+        }
+    },
+    {
+        "website": "MyDeal",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 5
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits moderate asymmetry in choice prominence and uses some covert techniques to influence decisions. However, there are some misleading elements in the pricing and promotional messages. While not overly restrictive, users may find certain alternatives less accessible."
+            }
+        }
+    },
+    {
+        "website": "Retravision",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 18,
+                "summary": "The site has a mild bias in presenting choices, with some design elements that subtly influence decisions. Information is generally clear, but certain offers might obscure full details, and there are slight restrictions on user choices."
+            }
+        }
+    },
+    {
+        "website": "Bing Lee",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 5
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website features some asymmetric choices, particularly in promoting specific deals, which makes alternative options less prominent. There are covert techniques employed, but they aren't entirely misleading. Some information may lead to mild confusion, but most necessary details are accessible. Users experience moderate restrictions in their choices."
+            }
+        }
+    },
+    {
+        "website": "Big Brown Box",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 16,
+                "summary": "The website exhibits mild to moderate biases in choice presentation and influence, with some slight restrictions on user alternatives. The information is mostly transparent, with a few instances of hidden details."
+            }
+        }
+    },
+    {
+        "website": "Gadget City",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 5
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 19,
+                "summary": "The website exhibits a moderate usage of dark patterns. While there are noticeable biases in the choice presentation and some covert influences, information is mostly accessible. Minor restrictions exist, but users can still make informed decisions."
+            }
+        }
+    },
+    {
+        "website": "Digital Camera Warehouse",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 20,
+                "summary": "The website employs mild visual biases in presenting choices and includes some subtle influences that may affect user decisions. While some information is clear, important aspects are somewhat obscured or not immediately evident, leading to a moderately deceptive overall experience."
+            }
+        }
+    },
+    {
+        "website": "Ted's Cameras",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website utilizes some dark patterns, particularly in terms of asymmetric choices and restrictions related to subscription offers. The incentive is presented prominently, which may lead users to feel pressured to sign up, while some information around the subscription benefits is not fully transparent."
+            }
+        }
+    },
+    {
+        "website": "RS Components",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 12,
+                "summary": "The website demonstrates mild asymmetric choices with some information that may not be fully transparent. Most choices are visible but not equally prominent, and minimal deceptive elements are present. Overall, it allows for user freedom but has slight restrictions in visibility and access to certain features."
+            }
+        }
+    },
+    {
+        "website": "Radio Parts",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 13,
+                "summary": "The website demonstrates mild asymmetry in choices, with some design elements that could influence user decisions. There is minimal deceptive information and some information is not immediately accessible. Overall, users have some restrictions, but they are not overly severe."
+            }
+        }
+    },
+    {
+        "website": "Georges Cameras",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website exhibits noticeable biases in choice presentation and some subtle influences that may affect user decisions. While there is some misleading information, the core offers are mostly clear. However, certain promotions may not be fully transparent, leading to a moderate level of restrictions on user choices."
+            }
+        }
+    },
+    {
+        "website": "Core Electronics",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 17,
+                "summary": "The website displays mild asymmetric choices and uses some covert techniques to influence decisions. There's slight misleading information, and essential details may require extra steps to locate. User freedom is somewhat restricted, but alternatives are present."
+            }
+        }
+    },
+    {
+        "website": "Camera House",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 22,
+                "summary": "The website exhibits noticeable bias in choices presented, some covert influences regarding the sign-up, mild deceptive elements, and some information is not readily accessible, indicating a somewhat manipulative design."
+            }
+        }
+    },
+    {
+        "website": "Winning Appliances",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 19,
+                "summary": "The website contains some mild to noticeable biases in choice prominence, subtle manipulation in design elements, and restrictions on user alternatives, with certain important information not fully upfront."
+            }
+        }
+    },
+    {
+        "website": "Sparkfun",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 16,
+                "summary": "The website shows mild bias towards featured products, with some elements influencing user choices. Information is mostly accessible but may require extra steps to find, and there are slight restrictions on user interactions."
+            }
+        }
+    },
+    {
+        "website": "Element 14 Australia",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 6
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 6
+                }
+            },
+            "overall_assessment": {
+                "total_score": 24,
+                "summary": "The website exhibits noticeable bias in choice prominence, with elements like the promotion for 10% off being more prominent than other options. There are some covert techniques used, particularly in influencing location-based choices. Some information is not entirely transparent, particularly regarding the conditions for the discount, and the option to choose a country is somewhat restrictive, affecting navigation."
+            }
+        }
+    },
+    {
+        "website": "Little Bird Electronics",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 14,
+                "summary": "The website has some mild biases in choice prominence and some minor restrictions. It maintains transparent choices with minimal deceptive elements."
+            }
+        }
+    },
+    {
+        "website": "Microchip",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 1
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 12,
+                "summary": "The website displays mild asymmetry in choice prominence, with some information that may take extra steps to access. However, there are no deceptive practices, and user choices are relatively clear, leading to a low score in covert and deceptive categories."
+            }
+        }
+    },
+    {
+        "website": "Digikey",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 16,
+                "summary": "The website shows moderate biases in the prominence of options available to users and has some hidden influences in its design. Information is generally straightforward but can obscure important details, particularly regarding shipping costs and delivery time. There are some restrictions in choices, but alternatives are still visible."
+            }
+        }
+    },
+    {
+        "website": "Pololu",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 4
+                }
+            },
+            "overall_assessment": {
+                "total_score": 18,
+                "summary": "The website shows mild biases in choices and some restrictions, along with concealed information. The design is generally transparent, but certain details could lead to confusion."
+            }
+        }
+    },
+    {
+        "website": "Robotics Australia",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 17,
+                "summary": "The website shows mild bias in presenting choices and some obscured information. While it does not significantly deceive users, there are subtle influences and noticeable restrictions in available choices."
+            }
+        }
+    },
+    {
+        "website": "Seeed Studio",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 5
+                },
+                "Restrictive": {
+                    "score": 3
+                }
+            },
+            "overall_assessment": {
+                "total_score": 17,
+                "summary": "The website exhibits mild asymmetric choices, with some alternative options being less prominent. There are subtle covert design elements influencing decisions, and while the information presented is mostly accurate, there are slight delays in accessing important details. Users retain some freedom, but there are minor restrictions in navigating choices."
+            }
+        }
+    },
+    {
+        "website": "Texas Instruments",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 12,
+                "summary": "The website exhibits mild asymmetric choices with some options less prominent than others. There are subtle design elements that influence user decisions without being overtly deceptive. Information is mostly clear, but some aspects may require additional steps to access. Overall, the website is user-friendly but could improve on transparency."
+            }
+        }
+    },
+    {
+        "website": "ServoCity",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 2
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 12,
+                "summary": "The website displays fairly straightforward product offerings with minimal dark patterns. Choices are presented with equal prominence and clear pricing. Some information is less visible, but overall, users are not significantly misled."
+            }
+        }
+    },
+    {
+        "website": "RobotShop",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 5
+                },
+                "Covert": {
+                    "score": 4
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 5
+                }
+            },
+            "overall_assessment": {
+                "total_score": 23,
+                "summary": "The website displays a moderate level of dark patterns across various categories. While choices are presented, some display limited prominence and certain information is somewhat hidden. The overall user experience is influenced without being highly manipulative."
+            }
+        }
+    },
+    {
+        "website": "Adafruit",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 2
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 11,
+                "summary": "The website demonstrates a fairly straightforward design with minor biases and restrictions, mostly presenting clear choices for users. There are small potential hidden influences, but overall, it is not deceptive or excessively restrictive."
+            }
+        }
+    },
+    {
+        "website": "Nuts and Volts",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 3
+                },
+                "Covert": {
+                    "score": 2
+                },
+                "Deceptive": {
+                    "score": 1
+                },
+                "Hides Information": {
+                    "score": 4
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 12,
+                "summary": "The website displays mild asymmetric choices with a slight bias towards specific actions, along with some information that isn't immediately clear. Deceptive elements are minimal, and there are very few restrictions on user choices."
+            }
+        }
+    },
+    {
+        "website": "Jaycar",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 4
+                },
+                "Covert": {
+                    "score": 3
+                },
+                "Deceptive": {
+                    "score": 2
+                },
+                "Hides Information": {
+                    "score": 3
+                },
+                "Restrictive": {
+                    "score": 2
+                }
+            },
+            "overall_assessment": {
+                "total_score": 14,
+                "summary": "The website shows mild bias in choices, with some information that is slightly obscured but generally clear. There are no significant deceptive elements, and users retain reasonable freedom of choice."
+            }
+        }
+    },
+    {
+        "website": "Make",
+        "analysis_result": {
+            "category_scores": {
+                "Asymmetric": {
+                    "score": 8
+                },
+                "Covert": {
+                    "score": 5
+                },
+                "Deceptive": {
+                    "score": 3
+                },
+                "Hides Information": {
+                    "score": 6
+                },
+                "Restrictive": {
+                    "score": 7
+                }
+            },
+            "overall_assessment": {
+                "total_score": 29,
+                "summary": "The website exhibits noticeable biases in presenting choices, especially with the pop-up's emphasis on urgency and discounted pricing, which may lead users to feel pressured to purchase. Certain important details are obscured and require additional steps to find. Users have some restrictions on choices, primarily influenced by the prominent call to action."
+            }
+        }
+    }
+]

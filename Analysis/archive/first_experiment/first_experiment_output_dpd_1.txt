@@ -1,0 +1,3950 @@
+[
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website demonstrates several dark patterns, notably in the Asymmetric and Hides Information categories. While the choices are more skewed, the information is somewhat hidden, and there are mild restrictions guiding user actions."
+        },
+        "website": "Amazon"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 4
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 3
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 14,
+            "max_possible_score": 50,
+            "summary": "The website shows mild dark patterns. The options are reasonably presented with slight biases. There are subtle influences in the design, but no significant deception or highly restricted choices. Some information requires extra steps to access but isn\u2019t substantially hidden."
+        },
+        "website": "eBay"
+    },
+    {
+        "website": "Walmart"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 16,
+            "max_possible_score": 50,
+            "summary": "The website employs a moderate level of dark patterns. While options and information are generally available and do not heavily mislead the user, there is some mild bias in the presentation of choices and slight use of covert design elements."
+        },
+        "website": "Alibaba"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 21,
+            "max_possible_score": 50,
+            "summary": "The website shows a medium level of dark patterns, with noticeable bias in the presentation favoring the sale and somewhat hidden details about the offer. While it does have some restrictive and covert elements, the level of deception is relatively low."
+        },
+        "website": "Target"
+    },
+    {
+        "website": "Best Buy"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 24,
+            "max_possible_score": 50,
+            "summary": "The website exhibits moderate usage of dark patterns. The presentation is somewhat biased towards certain choices, with more prominent buttons for specific actions. Some design elements subtly influence user choices, and certain information requires additional steps to be accessed. However, the website does not impose extreme restrictions on user actions."
+        },
+        "website": "Flipkart"
+    },
+    {
+        "website": "Rakuten"
+    },
+    {
+        "website": "MercadoLibre"
+    },
+    {
+        "website": "Zalando"
+    },
+    {
+        "website": "JD.com"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website has a moderately biased presentation and shows some elements of hidden influences or missing information, particularly in the Harrying Information category. Users are not heavily restricted, but there are some limitations and information is not always presented transparently."
+        },
+        "website": "Shopify"
+    },
+    {
+        "website": "Newegg"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 3
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 19,
+            "max_possible_score": 50,
+            "summary": "The website uses moderate dark patterns. The presentation is slightly biased with some inconvenience for users. No significant misleading information is present, but there are mild restrictions and minor information delay."
+        },
+        "website": "Wayfair"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 1
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 1
+            },
+            "Hides Information": {
+                "score": 2
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 6,
+            "max_possible_score": 50,
+            "summary": "The website does not exhibit significant dark patterns based on this 'Access Denied' error page. The lack of access does restrict user interaction, and some necessary information may be hidden, but there is no evidence of asymmetric or covert manipulation."
+        },
+        "website": "ASOS"
+    },
+    {
+        "website": "Overstock"
+    },
+    {
+        "website": "Etsy"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 6
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 8
+            }
+        },
+        "overall_assessment": {
+            "total_score": 32,
+            "max_possible_score": 50,
+            "summary": "The website exhibits multiple dark patterns, particularly in the Asymmetric, Hides Information, and Restrictive categories. The presentation of choices is noticeably biased, with significant information hidden behind pop-ups and banners. User experience is somewhat manipulated to push notifications and certain actions."
+        },
+        "website": "Aliexpress"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 6
+            }
+        },
+        "overall_assessment": {
+            "total_score": 28,
+            "max_possible_score": 50,
+            "summary": "The website exhibits several dark patterns, with particularly evident scores in Asymmetric and Hides Information categories. The presentation of user choice options tends to be biased, with significant information often being harder to access."
+        },
+        "website": "Wish"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 7
+            }
+        },
+        "overall_assessment": {
+            "total_score": 29,
+            "max_possible_score": 50,
+            "summary": "The website demonstrates several dark patterns, especially in Hides Information and Restrictive categories. There is a noticeable bias in presentation, some covert design elements influencing user choices, and important information is somewhat obscured or delayed."
+        },
+        "website": "Home Depot"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The website is currently unreachable due to an ERR_HTTP2_PROTOCOL_ERROR. Since content from the website could not be loaded, it is not possible to analyze any potential dark patterns."
+        },
+        "website": "Lowes"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 23,
+            "max_possible_score": 50,
+            "summary": "The website employs some dark patterns, particularly in Asymmetric and Hides Information categories. While the presentation is slightly biased, and some important information is not immediately clear, user decisions are not heavily manipulated or overly restricted."
+        },
+        "website": "IKEA"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 6
+            },
+            "Hides Information": {
+                "score": 8
+            },
+            "Restrictive": {
+                "score": 8
+            }
+        },
+        "overall_assessment": {
+            "total_score": 33,
+            "max_possible_score": 50,
+            "summary": "The website displays several dark patterns particularly in Hides Information and Restrictive categories. Access to the page is denied without clear information on why, indicating deceptive and asymmetric presentation. Crucial information is hidden or obscured, resulting in a restrictive user experience."
+        },
+        "website": "Macy's"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The screenshot indicates that the website is not reachable due to an HTTP protocol error. Therefore, no dark patterns can be analyzed or identified in this state."
+        },
+        "website": "Costco"
+    },
+    {
+        "website": "Sam's Club"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 21,
+            "max_possible_score": 50,
+            "summary": "The Sears website shows some use of dark patterns, though not overly manipulative. The most noticeable issues include mild asymmetry in presenting choices and hiding additional information under extra steps. The cookie notice is clearly displayed, though subtle. Most elements aren't deceptive or restrictive, offering users a reasonable browsing experience."
+        },
+        "website": "Sears"
+    },
+    {
+        "website": "Kohl's"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 4
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 7
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website displays several dark patterns with mid-range scores across categories. It is somewhat biased in presentation, and some information is not immediately visible or requires additional actions to uncover. There are noticeable restrictions on user actions, making it less transparent and more restrictive than ideal."
+        },
+        "website": "Nordstrom"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 4
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 3
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 13,
+            "max_possible_score": 50,
+            "summary": "The website has a generally fair presentation with minor elements of dark patterns. The asymmetry score reflects some prominence given to sales, but choices are still reasonably balanced. There are minor elements where information could be more transparent, but overall, the design does not heavily manipulate or restrict the user."
+        },
+        "website": "Toys R Us"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 19,
+            "max_possible_score": 50,
+            "summary": "The website uses some dark patterns, particularly in the Asymmetric and Restrictive categories. The presentation could be perceived as slightly biased, and some information is delayed or requires additional steps to access."
+        },
+        "website": "Apple"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 21,
+            "max_possible_score": 50,
+            "summary": "The website features a noticeable bias in favor of accepting cookies with equal prominence given to the Accept and Reject buttons, although 'Manage cookies' provides detailed control. Some minor covert techniques are used to subtly influence user decisions. The presentation is mostly straightforward, with minimal deceptive information or significant restrictions. Certain information is a bit delayed but not crucially hidden."
+        },
+        "website": "Microsoft Store"
+    },
+    {
+        "website": "Dell"
+    },
+    {
+        "website": "HP"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 13,
+            "max_possible_score": 50,
+            "summary": "The website uses minimal dark patterns. There is a slight emphasis on promoting the business membership with an exclusive offer which could be seen as mildly asymmetric. Some information about the benefits of the membership is not immediately clear which affects the scores for Hides Information and Asymmetric categories."
+        },
+        "website": "Lenovo"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 18,
+            "max_possible_score": 50,
+            "summary": "The website employs some dark patterns, with a noticeable bias in the presentation of choices. There are some elements of subtle influence on user decisions and occasional obscuration of information; however, the site is generally not overly restrictive."
+        },
+        "website": "Nike"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The website could not be reached. Therefore, it is not possible to assess the presence of dark patterns or their categories based on this screenshot. The site may be temporarily down or moved permanently to a new web address."
+        },
+        "website": "Adidas"
+    },
+    {
+        "website": "Puma"
+    },
+    {
+        "website": "Reebok"
+    },
+    {
+        "website": "Under Armour"
+    },
+    {
+        "website": "H&M"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 26,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with particularly noticeable issues in Asymmetric and Hides Information categories. The presentation is biased towards encouraging sign-ups for text messages, with some information about data rates and message frequency somewhat obscured."
+        },
+        "website": "Uniqlo"
+    },
+    {
+        "website": "Zara"
+    },
+    {
+        "website": "Forever 21"
+    },
+    {
+        "website": "Urban Outfitters"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 23,
+            "max_possible_score": 50,
+            "summary": "The website uses some dark patterns, mostly in the Hides Information and Asymmetric categories. While the design is relatively balanced, certain deals and sale details are not completely transparent, and some crucial information is somewhat obscured."
+        },
+        "website": "Hollister"
+    },
+    {
+        "website": "Abercrombie & Fitch"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The webpage provided is not accessible due to an ERR_HTTP2_PROTOCOL_ERROR, indicating it might be down or moved permanently. Since the website content cannot be displayed or evaluated, no dark patterns can be assessed from this unavailable webpage."
+        },
+        "website": "Lululemon"
+    },
+    {
+        "website": "Victoria's Secret"
+    },
+    {
+        "website": "Sephora"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 7
+            }
+        },
+        "overall_assessment": {
+            "total_score": 29,
+            "max_possible_score": 50,
+            "summary": "The website exhibits several dark patterns, particularly in the Asymmetric and Hides Information categories. The user experience is biased towards certain actions that benefit the website, with notable restrictions and a tendency to obscure or delay important information."
+        },
+        "website": "Ulta"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 8
+            }
+        },
+        "overall_assessment": {
+            "total_score": 30,
+            "max_possible_score": 50,
+            "summary": "The website employs a number of dark patterns. It is particularly notable for using an asymmetric design that highlights specific actions, covert techniques to influence choices subtly, and restrictive measures that limit user options. Information is present but often obscured or not immediately clear."
+        },
+        "website": "Glossier"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 6
+            }
+        },
+        "overall_assessment": {
+            "total_score": 28,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, most notably in the Asymmetric and Hides Information categories. The accept all cookies button is more visually prominent, subtly encouraging users to accept all cookies. Information about optional tracking technologies is provided but placed in a way that makes it less noticeable. The user's ability to freely choose cookie settings is somewhat restricted."
+        },
+        "website": "Fenty Beauty"
+    },
+    {
+        "website": "ColourPop"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 6
+            }
+        },
+        "overall_assessment": {
+            "total_score": 24,
+            "max_possible_score": 50,
+            "summary": "The website displays some dark patterns, with the most noticeable being in the Hides Information and Restrictive categories. The options provided are somewhat biased towards continuing with the set location, and some important information or options (like changing the country or opting out of promotional emails) are less prominent."
+        },
+        "website": "Pat McGrath"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 27,
+            "max_possible_score": 50,
+            "summary": "The website displays a moderate use of dark patterns. The presentation is somewhat biased towards specific actions, and important information is occasionally obscured or delayed. While there are limitations on user choices, there are still some alternatives available."
+        },
+        "website": "Charlotte Tilbury"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The website cannot be reached due to an HTTP2 protocol error or the site being temporarily down or moved. No dark patterns can be assessed from the error page."
+        },
+        "website": "Too Faced"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 29,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with particularly high scores in Asymmetric and Hides Information categories. There is noticeable bias in presentation, important information is often obscured, and user decisions may be subtly manipulated."
+        },
+        "website": "Anastasia Beverly Hills"
+    },
+    {
+        "website": "Morphe"
+    },
+    {
+        "website": "The Body Shop"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 6
+            }
+        },
+        "overall_assessment": {
+            "total_score": 20,
+            "max_possible_score": 50,
+            "summary": "The website employs some dark patterns. The presentation leans towards being biased with slight preference given to the 'Ship to Canada' option. Information is somewhat obscured as other location choices are available but not immediately visible. Restrictions are in place as users are nudged towards a specific country for shipping."
+        },
+        "website": "L'Occitane"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 6
+            }
+        },
+        "overall_assessment": {
+            "total_score": 28,
+            "max_possible_score": 50,
+            "summary": "The website exhibits several dark patterns. The presentation of choices is noticeably biased towards building a custom box, with alternative options less prominent. There are some covert techniques employed to subtly influence user decisions. While the information isn't entirely deceptive, important details about the subscription model and customization are not immediately clear, implying some information is obscured. The options available also appear somewhat restrictive, funnelling users towards a particular action."
+        },
+        "website": "Birchbox"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 4
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 18,
+            "max_possible_score": 50,
+            "summary": "The website uses mild dark patterns, with a slightly biased presentation in the Asymmetric category. Some design elements subtly influence user choices, though most information is clear and accessible. User choice is generally unrestricted."
+        },
+        "website": "Amazon India"
+    },
+    {
+        "website": "Amazon UK"
+    },
+    {
+        "website": "Amazon Germany"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 1
+            },
+            "Hides Information": {
+                "score": 1
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 9,
+            "max_possible_score": 50,
+            "summary": "The website employs minimal dark patterns. There is slight asymmetry in the presentation of shipping options and a subtle influence on user choice, but overall, information is clear, and user options are relatively unrestricted."
+        },
+        "website": "Amazon Japan"
+    },
+    {
+        "website": "Lazada"
+    },
+    {
+        "website": "Shopee"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The website could not be reached, and therefore no dark patterns could be detected or assessed."
+        },
+        "website": "Tokopedia"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 7
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 27,
+            "max_possible_score": 50,
+            "summary": "The website displays several dark patterns with notable emphasis on deceptive and asymmetric practices. While user choices are somewhat biased and important information is not always immediately clear, the site is moderately restrictive in its user options."
+        },
+        "website": "Bukalapak"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 2
+            },
+            "Covert": {
+                "score": 1
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 1
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 8,
+            "max_possible_score": 50,
+            "summary": "The website does not heavily employ dark patterns. The verification process is straightforward, information is transparent, and user choices are not unduly restricted or biased."
+        },
+        "website": "Blibli"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 27,
+            "max_possible_score": 50,
+            "summary": "The website displays several dark patterns, with notable scores in Asymmetric and Hides Information categories. The choice to allow notifications is presented with a more prominent 'Allow' button compared to the 'Not Now' option. Some information is subtly obscured, but overall the site's dark patterns are moderate."
+        },
+        "website": "Snapdeal"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The webpage could not be reached due to a protocol error, indicating that it might be temporarily down or may have permanently moved to a new web address. Hence, no dark patterns were detected."
+        },
+        "website": "Myntra"
+    },
+    {
+        "website": "Ajio"
+    },
+    {
+        "website": "ShopClues"
+    },
+    {
+        "website": "BigBasket"
+    },
+    {
+        "website": "Grofers"
+    },
+    {
+        "website": "Pepperfry"
+    },
+    {
+        "website": "Nykaa"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 8
+            },
+            "Hides Information": {
+                "score": 9
+            },
+            "Restrictive": {
+                "score": 10
+            }
+        },
+        "overall_assessment": {
+            "total_score": 40,
+            "max_possible_score": 50,
+            "summary": "The website exhibits significant dark patterns. The blocking message is prominently displayed without providing further information or alternatives. This obstructs user choices, manipulates their decision-making covertly, and hides vital information on the reason for being blocked, hence highly restrictive and misleading."
+        },
+        "website": "Tata Cliq"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 20,
+            "max_possible_score": 50,
+            "summary": "The website uses some dark patterns, with mild to moderate scores in Asymmetric and Hides Information categories. The presentation is slightly biased towards promoting certain products, and some information might require additional steps to access."
+        },
+        "website": "Lenskart"
+    },
+    {
+        "website": "Reliance Digital"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 7
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 29,
+            "max_possible_score": 50,
+            "summary": "The website displays several dark patterns, with notable scores in Asymmetric and Deceptive categories. Presentation is biased towards promoting sales, and important details such as the terms and conditions are likely obscured or not immediately visible."
+        },
+        "website": "Croma"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 21,
+            "max_possible_score": 50,
+            "summary": "The website contains a few dark patterns, but not excessively so. The presentation is mildly biased, with some alternative choices less prominent. There is slight covert influence on user decisions, and information related to terms and conditions is somewhat obscured. The website does not heavily restrict user choices."
+        },
+        "website": "Dunzo"
+    },
+    {
+        "website": "Shopclues"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The webpage couldn't be reached due to an HTTP protocol error. Since the webpage is not available, no dark patterns can be analyzed."
+        },
+        "website": "Jabong"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 7
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 28,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns. The presentation is noticeably biased towards the offer, with the high discount aggressively promoted. Some information, such as the terms of the discount, might be obscured. While there are limitations on choices, alternatives are available but not prominently displayed."
+        },
+        "website": "Naaptol"
+    },
+    {
+        "website": "Craftsvilla"
+    },
+    {
+        "website": "Fynd"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 24,
+            "max_possible_score": 50,
+            "summary": "The website exhibits several dark patterns, particularly in the Asymmetric category. Information is sometimes hidden or requires additional steps to access, and the design subtly influences user choices."
+        },
+        "website": "FirstCry"
+    },
+    {
+        "website": "Mamas & Papas"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 22,
+            "max_possible_score": 50,
+            "summary": "The website features several dark patterns, but these are moderately implemented. The asymmetric display slightly favors promotional content, and some details, such as extra GST charges on discounted prices and delivery timelines, are not immediately transparent but are available upon further action."
+        },
+        "website": "BabyOye"
+    },
+    {
+        "website": "Hopscotch"
+    },
+    {
+        "website": "Zivame"
+    },
+    {
+        "website": "Clovia"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 8
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 7
+            }
+        },
+        "overall_assessment": {
+            "total_score": 29,
+            "max_possible_score": 50,
+            "summary": "The website employs various dark patterns, particularly noticeable in the Asymmetric, Covert, and Restrictive categories. The cookie consent banner is biased towards accepting all cookies, and important information about cookie usage is somewhat obscured and requires additional steps to access."
+        },
+        "website": "PrettyLittleThing"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 8
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 30,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with high scores in Asymmetric and Hides Information categories. The presentation is noticeably biased, making the 'Accept All' option more prominent than 'Let Me Choose', and some information is partially hidden or delayed in access."
+        },
+        "website": "Boohoo"
+    },
+    {
+        "website": "Shein"
+    },
+    {
+        "website": "ASDA"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 24,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with particularly noticeable scores in the Asymmetric and Hides Information categories. The presentation shows a preferential bias toward accepting all cookies, and important information, such as specifics about cookie usage, is somewhat obscured."
+        },
+        "website": "Marks & Spencer"
+    },
+    {
+        "website": "John Lewis"
+    },
+    {
+        "website": "Next"
+    },
+    {
+        "website": "Argos"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The website cannot be accessed, hence no dark patterns are present in this screenshot."
+        },
+        "website": "Tesco"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 8
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 9
+            },
+            "Restrictive": {
+                "score": 9
+            }
+        },
+        "overall_assessment": {
+            "total_score": 30,
+            "max_possible_score": 50,
+            "summary": "The website employs dark patterns with particularly high scores in Restrictive and Hides Information categories. Access is completely restricted without providing any useful information or alternatives to the user."
+        },
+        "website": "Sainsbury's"
+    },
+    {
+        "website": "Ocado"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The website is not accessible due to an ERR_HTTP2_PROTOCOL_ERROR. As a result, no dark patterns can be identified or analyzed from the provided screenshot."
+        },
+        "website": "Waitrose"
+    },
+    {
+        "website": "Morrisons"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 23,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, though none are particularly extreme. The cookie consent dialogue shows some bias towards accepting cookies, and information about settings and declining options is less prominent. While there is some level of manipulation and hidden information, overall, the practices are moderately problematic."
+        },
+        "website": "Boots"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The website is currently unreachable due to a protocol error. Therefore, no dark patterns could be evaluated or detected."
+        },
+        "website": "Superdrug"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 29,
+            "max_possible_score": 50,
+            "summary": "The website uses several dark patterns, with higher scores in the Asymmetric and Covert categories. The cookie consent options are designed in a way that makes accepting all cookies more prominent and appealing than the alternatives, and important information regarding cookie settings is not immediately clear."
+        },
+        "website": "Carrefour"
+    },
+    {
+        "website": "Auchan"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 26,
+            "max_possible_score": 50,
+            "summary": "The website exhibits moderate use of dark patterns. The presentation is somewhat biased towards signing in or joining for a better experience, important information is delayed or requires additional steps to access, and some design elements subtly influence user choices."
+        },
+        "website": "Lidl"
+    },
+    {
+        "website": "Aldi"
+    },
+    {
+        "website": "IKEA India"
+    },
+    {
+        "website": "Big W"
+    },
+    {
+        "website": "Target Australia"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website exhibits some dark patterns, particularly in Asymmetric presentation and Hides Information categories. The alternative choices are somewhat less intuitive, and some important details are obscured or require further steps to access."
+        },
+        "website": "David Jones"
+    },
+    {
+        "website": "Harvey Norman"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 6
+            },
+            "Hides Information": {
+                "score": 8
+            },
+            "Restrictive": {
+                "score": 7
+            }
+        },
+        "overall_assessment": {
+            "total_score": 33,
+            "max_possible_score": 50,
+            "summary": "The website exhibits several dark patterns, especially in the areas of Hides Information and Asymmetric presentation. The offer requires the user to spend a significant amount to receive a discount that comes with many restrictions, and crucial details are found in fine print or require additional steps to be accessed."
+        },
+        "website": "JB Hi-Fi"
+    },
+    {
+        "website": "Dick Smith"
+    },
+    {
+        "website": "The Iconic"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website employs various dark patterns. The presentation shows a noticeable bias, with some elements subtly influencing choices. Information is available but some crucial details are not immediately clear."
+        },
+        "website": "Catch"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 16,
+            "max_possible_score": 50,
+            "summary": "The website demonstrates some use of dark patterns, particularly in being mildly biased in presentation and somewhat hiding information. However, it is not overtly deceptive or restrictive, and user choices are relatively free."
+        },
+        "website": "Kmart Australia"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 21,
+            "max_possible_score": 50,
+            "summary": "The website shows signs of dark patterns, but to a lesser extent. There is some mild biased presentation, notably in the arrangement of product categories, and some information may not be immediately clear, particularly regarding the details on the delivery policy."
+        },
+        "website": "Myer"
+    },
+    {
+        "website": "Kogan"
+    },
+    {
+        "website": "eBay Australia"
+    },
+    {
+        "website": "Woolworths"
+    },
+    {
+        "website": "Chemist Warehouse"
+    },
+    {
+        "website": "Bunnings"
+    },
+    {
+        "website": "Rebel Sport"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website uses several dark patterns, notably in the 'Hides Information' and 'Asymmetric' categories. The design is somewhat biased towards certain actions and some important information tends to be delayed or less accessible. Deceptive practices present but less pronounced, and there are relatively few restrictions on choice."
+        },
+        "website": "Supercheap Auto"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 2
+            },
+            "Covert": {
+                "score": 1
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 2
+            },
+            "Restrictive": {
+                "score": 1
+            }
+        },
+        "overall_assessment": {
+            "total_score": 8,
+            "max_possible_score": 50,
+            "summary": "The website does not employ significant dark patterns. The verification process is straightforward and transparent, with necessary information readily available. There is minimal bias, deception, or restriction in user choices."
+        },
+        "website": "Bunnings"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The website can't be reached, hence no dark patterns can be assessed or detected from the current page."
+        },
+        "website": "Big W"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 2
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 10
+            }
+        },
+        "overall_assessment": {
+            "total_score": 18,
+            "max_possible_score": 50,
+            "summary": "The website essentially blocks access without providing any further information. The most prominent issues are restrictive access and the hiding of potentially important information regarding the block."
+        },
+        "website": "Dan Murphy's"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 8
+            }
+        },
+        "overall_assessment": {
+            "total_score": 31,
+            "max_possible_score": 50,
+            "summary": "The website exhibits several dark patterns. The choices presented are somewhat biased with an emphasis placed on the suggested CAPTCHA solution. It contains covert design elements that subtly manipulate the user's actions, such as implying bot-like behavior without substantial evidence. The information provided is minimally deceptive as it lacks clear explanation or fair closure for a user who may not understand why they're being flagged. Notably, access to the site is considerably restrictive, requiring the completion of an additional task with no clear alternative pathways."
+        },
+        "website": "Liquorland"
+    },
+    {
+        "website": "Aesop"
+    },
+    {
+        "website": "Mecca"
+    },
+    {
+        "website": "Typo"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 26,
+            "max_possible_score": 50,
+            "summary": "The website presents several dark patterns. The login and sign-up options are slightly more prominent, making other navigation slightly less intuitive. Information about the offer is clear but could be considered mildly restrictive and covert due to the emphasis on logging in or signing up without initially displaying full offer terms."
+        },
+        "website": "Cotton On"
+    },
+    {
+        "website": "Jay Jays"
+    },
+    {
+        "website": "Typo"
+    },
+    {
+        "website": "Supre"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 29,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with higher scores in Asymmetric and Hides Information categories. The presentation shows biased elements favoring promotional offers and certain products. Important information like details of offers may be obscured or require extra steps to access."
+        },
+        "website": "The Good Guys"
+    },
+    {
+        "website": "Appliances Online"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 1
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 6
+            }
+        },
+        "overall_assessment": {
+            "total_score": 16,
+            "max_possible_score": 50,
+            "summary": "The website appears relatively straightforward with an access denial page, but there are some restrictive elements that prevent users from accessing the content. There is a mild bias in the presentation of choices and some obscured information regarding why access was specifically denied, but it is not heavily deceptive."
+        },
+        "website": "Autobarn"
+    },
+    {
+        "website": "Spotlight"
+    },
+    {
+        "website": "Anaconda"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 16,
+            "max_possible_score": 50,
+            "summary": "The website has minor use of dark patterns, with the most notable in the Asymmetric and Hides Information categories. The choices presented are mildly biased and some information requires extra steps to access."
+        },
+        "website": "Macpac"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website employs some dark patterns, notably in the Asymmetric and Hides Information categories. The design presents options in a biased way, making the 'Accept All Cookies' button more prominent, while hiding more detailed settings behind another click."
+        },
+        "website": "Kathmandu"
+    },
+    {
+        "website": "Mountain Designs"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 7
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with noticeable scores in Asymmetric and Deceptive categories. The sale timer adds a sense of urgency that may influence user choice. However, information seems to be somewhat accessible, though there are mild restrictions and some elements are covertly influencing user decisions."
+        },
+        "website": "BCF"
+    },
+    {
+        "website": "Torpedo7"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 6
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website employs several mild dark patterns. While it is not excessively deceptive or restrictive, it is somewhat asymmetrical and hides some relevant information. The listings for related searches can be misleading, and important details about domain availability are not immediately clear."
+        },
+        "website": "Katmandu"
+    },
+    {
+        "website": "Bonds"
+    },
+    {
+        "website": "Peter Alexander"
+    },
+    {
+        "website": "Gorman"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 2
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 4,
+            "max_possible_score": 50,
+            "summary": "The website is currently down and displays a message about technical difficulties. There are no significant dark patterns present; the information is straightforward and there are no manipulative design elements."
+        },
+        "website": "Country Road"
+    },
+    {
+        "website": "Mimco"
+    },
+    {
+        "website": "Witchery"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 20,
+            "max_possible_score": 50,
+            "summary": "The website displays moderate use of dark patterns, particularly in the Asymmetric and Hides Information categories. While there\u2019s a noticeable emphasis on sales promotion, the actual details and terms might not be immediately clear to the user. The overall design subtly influences user choices but does not heavily restrict or deceive them."
+        },
+        "website": "Seed Heritage"
+    },
+    {
+        "website": "Sportscraft"
+    },
+    {
+        "website": "Saba"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 8
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 7
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 31,
+            "max_possible_score": 50,
+            "summary": "The website uses several dark patterns. The 'Sale' presentation is biased towards making purchases with a prominent 'Shop Now' call to action (Asymmetric: 8). Mild design elements subtly influence user choices (Covert: 5). The '25% OFF*' might have conditions not immediately apparent (Deceptive: 7). Information about the terms of the sale is somewhat obscured (Hides Information: 6). Users face some restrictions with choices such as 'Click and Collect' being temporarily unavailable (Restrictive: 5)."
+        },
+        "website": "Politix"
+    },
+    {
+        "website": "MJ Bale"
+    },
+    {
+        "website": "Calibre"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 22,
+            "max_possible_score": 50,
+            "summary": "The website employs some dark patterns with particular emphasis on asymmetric design. Users are subtly guided towards the preferred options, but other options are still accessible. Information is not fully hidden but may require additional steps for clarity."
+        },
+        "website": "R.M. Williams"
+    },
+    {
+        "website": "Hush Puppies"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 23,
+            "max_possible_score": 50,
+            "summary": "The website employs some dark patterns, with noticeable use of asymmetric design and hidden information. The popup prioritizes signing up for promotional emails but includes an option to close it. Deceptive and restrictive elements are less pronounced but still present."
+        },
+        "website": "Windsor Smith"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 8
+            }
+        },
+        "overall_assessment": {
+            "total_score": 29,
+            "max_possible_score": 50,
+            "summary": "The website has several dark patterns, especially in the Restrictive and Hides Information categories. The presentation is notably biased towards membership, and some important details may only be discovered after additional actions."
+        },
+        "website": "Aquila"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 14,
+            "max_possible_score": 50,
+            "summary": "The website employs minor dark patterns. There is a slight bias presentation in the 'Shop Now' button, and some information such as detailed product specifics might require additional steps to access."
+        },
+        "website": "Betts"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website shows several dark patterns, with particularly high scores in Asymmetric and Hides Information categories. The sign-up window biases the user towards signing up by offering a discount prominently. Necessary information like the minimum spend for the discount is somewhat obscured at the bottom of the sign-up box, potentially leading to user misunderstanding."
+        },
+        "website": "Spendless Shoes"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 27,
+            "max_possible_score": 50,
+            "summary": "The website shows several dark patterns, particularly in the Hides Information and Covert categories. The presentation of deals and offers is somewhat biased, with important information not immediately visible, thus making user decisions subtly guided towards certain actions."
+        },
+        "website": "Platypus Shoes"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 8
+            },
+            "Covert": {
+                "score": 7
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 9
+            }
+        },
+        "overall_assessment": {
+            "total_score": 35,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, particularly in being Restrictive and using Asymmetric designs. The user is blocked with minimal explanation and has limited options to proceed, noticeable biases in the presentation of explanations, subtly covert influences, partially misleading information, and important details are somewhat delayed."
+        },
+        "website": "Foot Locker"
+    },
+    {
+        "website": "Rebel Sport"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 21,
+            "max_possible_score": 50,
+            "summary": "The website displays some dark pattern techniques. The layout is somewhat asymmetric, giving notable prominence to specific actions. While it does employ subtle influencing techniques, it is not heavily deceptive. Information is generally available but sometimes requires additional navigation. The user is not excessively restricted in their choices."
+        },
+        "website": "Supercheap Auto"
+    },
+    {
+        "website": "Bunnings"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The webpage could not be reached, and hence a detailed assessment for dark patterns cannot be conducted. No dark patterns are applicable in this scenario."
+        },
+        "website": "Big W"
+    },
+    {
+        "website": "Dan Murphy's"
+    },
+    {
+        "website": "Liquorland"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns. The cookie consent notice is clearly biased towards 'Accept all cookies' with more visual prominence and a straightforward option, while 'Cookies settings' is less prominent and requires more effort. Some crucial information about privacy settings is not immediately visible and requires additional action to access."
+        },
+        "website": "Aesop"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 19,
+            "max_possible_score": 50,
+            "summary": "The website employs some dark patterns, particularly in the Asymmetric category, as the 'Shop Tower 28' button is prominently displayed, while alternative choices are less highlighted. The Covert and Hides Information categories scored equally, indicating mild use of subtle influences and some information that requires steps to access. Deceptive and Restrictive scores are relatively low, suggesting straightforward information and some freedom in user choices."
+        },
+        "website": "Mecca"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 24,
+            "max_possible_score": 50,
+            "summary": "The website shows some use of dark patterns. It is slightly biased in presentation, with notable elements that may subtly influence user decisions. Some important information might be obscured or only available after additional steps. The design, however, is not highly restrictive."
+        },
+        "website": "Typo"
+    },
+    {
+        "website": "Cotton On"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 6
+            },
+            "Hides Information": {
+                "score": 8
+            },
+            "Restrictive": {
+                "score": 9
+            }
+        },
+        "overall_assessment": {
+            "total_score": 35,
+            "max_possible_score": 50,
+            "summary": "The website displays several dark patterns, with particularly high scores in Restrictive and Hides Information categories. The access restriction creates a notably asymmetric experience, and the reason for the block is not completely clear and could be misleading or inaccurate."
+        },
+        "website": "Jay Jays"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 8
+            }
+        },
+        "overall_assessment": {
+            "total_score": 30,
+            "max_possible_score": 50,
+            "summary": "The website employs a number of dark patterns, with a particularly high score in the Restrictive and Hides Information categories. The presentation is noticeably biased towards user sign-ups, and important information about terms and conditions is somewhat obscured or only accessible through additional steps."
+        },
+        "website": "Supre"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 7
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 29,
+            "max_possible_score": 50,
+            "summary": "The website shows several dark patterns, particularly in Asymmetric and Covert categories. The promotional elements are noticeably biased, and some information requires additional steps or is presented in a way that subtly influences user choices. While there are moderately restrictive elements, they are not overwhelming."
+        },
+        "website": "The Good Guys"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 24,
+            "max_possible_score": 50,
+            "summary": "The website utilizes several mild dark patterns. The presentation is somewhat biased, but not extremely so. Some information is slightly hidden, and there is a slight use of covert techniques. The site imposes mild restrictions on user choices."
+        },
+        "website": "Appliances Online"
+    },
+    {
+        "website": "Autobarn"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 8
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 7
+            }
+        },
+        "overall_assessment": {
+            "total_score": 33,
+            "max_possible_score": 50,
+            "summary": "The website exhibits several dark patterns, particularly noticeable in Asymmetric and Covert categories. Choices are presented with significant bias, and important information tends to be hidden or less prominently displayed, influencing user behavior."
+        },
+        "website": "Anaconda"
+    },
+    {
+        "website": "Macpac"
+    },
+    {
+        "website": "Kathmandu"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 6
+            }
+        },
+        "overall_assessment": {
+            "total_score": 28,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with notably high scores in Asymmetric and Hides Information categories. The choices presented, such as cookie consent, are noticeably biased, and important information such as privacy details is somewhat obscured. The site design subtly influences user decisions and limits alternatives."
+        },
+        "website": "Mountain Designs"
+    },
+    {
+        "website": "BCF"
+    },
+    {
+        "website": "Torpedo7"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with particularly high scores in Asymmetric and Hides Information categories. The presentation is noticeably biased towards promotions, and some information might only be revealed through additional steps, like the exact terms of the $10 offers."
+        },
+        "website": "Rivers"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 8
+            }
+        },
+        "overall_assessment": {
+            "total_score": 30,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with particularly high scores in Restrictive and Hides Information categories. The presentation is somewhat biased, and crucial information may be hidden or only partially revealed."
+        },
+        "website": "Just Jeans"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 3
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 14,
+            "max_possible_score": 50,
+            "summary": "The website has minimal use of dark patterns. While there is slight asymmetry in how offers are presented and possible mild deceptive elements due to unclear details on discounts, overall information is relatively accessible and choices are not heavily restricted."
+        },
+        "website": "Jeanswest"
+    },
+    {
+        "website": "Bardot"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 20,
+            "max_possible_score": 50,
+            "summary": "The website has some noticeable biases, particularly in the Asymmetric and Hides Information categories. The presentation of country options is slightly skewed, and some information may not be immediately clear. The restrictive nature is low since the user still has the option to ignore the prompt."
+        },
+        "website": "Decjuba"
+    },
+    {
+        "website": "Cue"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 8
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 8
+            }
+        },
+        "overall_assessment": {
+            "total_score": 33,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with particularly high scores in Asymmetric and Restrictive categories. The presentation is noticeably biased, and some information is obscured or only revealed after certain actions. User decisions are subtly influenced by covert design elements."
+        },
+        "website": "Portmans"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 20,
+            "max_possible_score": 50,
+            "summary": "The website displays a moderate use of dark patterns. The 'OK' button is more prominently displayed than the 'Cancel' button, leading to a somewhat biased visual presentation. Some subtle manipulation is present in guiding the user towards a specific action, but information transparency is relatively maintained, and there are no heavy restrictions on user choices."
+        },
+        "website": "Forever New"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 4
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 3
+            },
+            "Restrictive": {
+                "score": 1
+            }
+        },
+        "overall_assessment": {
+            "total_score": 12,
+            "max_possible_score": 50,
+            "summary": "The website shows a low to moderate use of dark patterns. There is some asymmetry in the presentation of promotions, but options are quite visible. Covert, deceptive elements, and hidden information are minimal, and the website offers considerable freedom to users. Important information is generally accessible with only slight delays."
+        },
+        "website": "Sussan"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 7
+            },
+            "Deceptive": {
+                "score": 6
+            },
+            "Hides Information": {
+                "score": 8
+            },
+            "Restrictive": {
+                "score": 8
+            }
+        },
+        "overall_assessment": {
+            "total_score": 34,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns in its anomaly detection message. It significantly limits user choices, obscures important information, and subtly uses covert techniques. The presentation is biased, with alternative choices being less prominent. The user experience is notably restrictive and less transparent."
+        },
+        "website": "Dotti"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 6
+            }
+        },
+        "overall_assessment": {
+            "total_score": 23,
+            "max_possible_score": 50,
+            "summary": "The website employs a few mild dark patterns. The necessity to verify for continuing shopping imposes some restrictions and may appear asymmetric and covert. While some information is hidden, overall, the page does not seem heavily deceptive."
+        },
+        "website": "OshKosh"
+    },
+    {
+        "website": "Adairs"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 4
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 16,
+            "max_possible_score": 50,
+            "summary": "The website shows minimal use of dark patterns. There is a mildly biased presentation in favor of certain options, and some information requires additional steps to access, but overall, the design is fairly straightforward without excessive restrictions or covert influences."
+        },
+        "website": "Sheridan"
+    },
+    {
+        "website": "Bed Bath N' Table"
+    },
+    {
+        "website": "Freedom"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 22,
+            "max_possible_score": 50,
+            "summary": "The website exhibits some dark patterns, with a notably higher score in the Hides Information category due to the obscuring of certain crucial details. The presentation is mildly biased, but critical information is obscured and revealed later, contributing to the scores in Deceptive and Hides Information categories."
+        },
+        "website": "Fantastic Furniture"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 18,
+            "max_possible_score": 50,
+            "summary": "The website employs some dark patterns, particularly mild asymmetry and covert techniques to direct user attention. While the information is not overtly deceptive, certain marketing tactics might cause some confusion. Restrictive behaviors are minimal, providing reasonable flexibility for user choices."
+        },
+        "website": "Amart Furniture"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7,
+                "analysis": "The 'Ok' button in the cookie consent prompt is more prominent than the 'Cookies Settings' button. This can lead users to quickly accept all cookies without exploring their options."
+            },
+            "Covert": {
+                "score": 5,
+                "analysis": "The use of the more visually prominent 'Ok' button can subtly influence users to agree to all cookies, which is a mild covert technique."
+            },
+            "Deceptive": {
+                "score": 4,
+                "analysis": "The information provided is largely accurate but somewhat downplays the implications of accepting all cookies by emphasizing the necessity of cookies for site operation without detailing the extent of data collection for optional cookies."
+            },
+            "Hides Information": {
+                "score": 6,
+                "analysis": "While the information about cookie usage is provided, users have to go through additional steps to understand and possibly disable optional cookies. The 'Cookie Settings' option is less prominent."
+            },
+            "Restrictive": {
+                "score": 3,
+                "analysis": "There are some limitations on user choices concerning cookies, but alternatives are available through the 'Cookies Settings' button."
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website uses several dark patterns, particularly in the presentation of the cookie consent prompt. Mild covert techniques are used to influence user choices, and information is somewhat obscured but not heavily restricted or deceiving."
+        },
+        "website": "IKEA Australia"
+    },
+    {
+        "website": "Forty Winks"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 7
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website uses several dark patterns, mainly in the Covert and Hides Information categories. There is mild bias in the presentation of choices, and some information is presented with subtle influences, such as the use of a countdown timer to create urgency."
+        },
+        "website": "Snooze"
+    },
+    {
+        "website": "Harvey Norman Furniture"
+    },
+    {
+        "website": "Nick Scali"
+    },
+    {
+        "website": "Brosa"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 1
+            },
+            "Covert": {
+                "score": 1
+            },
+            "Deceptive": {
+                "score": 1
+            },
+            "Hides Information": {
+                "score": 1
+            },
+            "Restrictive": {
+                "score": 1
+            }
+        },
+        "overall_assessment": {
+            "total_score": 5,
+            "max_possible_score": 50,
+            "summary": "The website's CAPCHA verification process is straightforward and does not employ dark patterns. It ensures the security of the connection without biases, covert manipulation, deception, obscuring information, or restricting user choices."
+        },
+        "website": "Temple & Webster"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website engages in multiple dark patterns, particularly in the categories of Hides Information and Asymmetric design. The information about the sale is prominent, but critical details like terms and conditions for the discount code are less noticeable."
+        },
+        "website": "Interior Secrets"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 8
+            },
+            "Deceptive": {
+                "score": 7
+            },
+            "Hides Information": {
+                "score": 9
+            },
+            "Restrictive": {
+                "score": 10
+            }
+        },
+        "overall_assessment": {
+            "total_score": 40,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with very high scores in Restrictive and Hides Information categories. The presentation is noticeably biased, user decisions are heavily manipulated, and crucial information is hidden or only revealed at the last possible moment. Additionally, the website is extremely restrictive in user actions."
+        },
+        "website": "Matt Blatt"
+    },
+    {
+        "website": "Sleeping Duck"
+    },
+    {
+        "website": "Koala"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 2
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 20,
+            "max_possible_score": 50,
+            "summary": "The website employs a few dark patterns, with a notable bias in presenting the email sign-up form prominently. There are some covert design elements subtly influencing the user to sign up. The information is relatively forthcoming with minimal important details hidden. The user is somewhat restricted in their actions, primarily nudged towards providing their email."
+        },
+        "website": "Eva"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The website does not employ dark patterns in the analyzed section. The content is straightforward, transparent, and does not exhibit bias, covert influences, deceptive practices, hidden information, or restrictive choices."
+        },
+        "website": "Australia Post"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 1
+            },
+            "Hides Information": {
+                "score": 1
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 9,
+            "max_possible_score": 50,
+            "summary": "The website's captcha verification screen shows minimal use of dark patterns. There's a slight bias in the presentation, but overall, it is relatively straightforward with limited restrictive elements or hidden information."
+        },
+        "website": "Redbubble"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 6
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 25,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, particularly in the use of asymmetric design and covert techniques. Some information, including the terms of the discount, is less visible, potentially causing confusion. However, the restrictions on user choices are not overly severe."
+        },
+        "website": "Society6"
+    },
+    {
+        "website": "Etsy Australia"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 7
+            }
+        },
+        "overall_assessment": {
+            "total_score": 29,
+            "max_possible_score": 50,
+            "summary": "The website displays several dark patterns, with notable biases in presentation and some restrictions on user choices. Information is occasionally obscured, and certain actions subtly influence user decisions. The site has an overall moderate level of dark patterns present."
+        },
+        "website": "Scoopon"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The screenshot displays a 'site can't be reached' error message, indicating that the webpage is temporarily down or has moved permanently. There are no elements to evaluate for dark patterns."
+        },
+        "website": "Groupon Australia"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 6
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 27,
+            "max_possible_score": 50,
+            "summary": "The website employs a moderate number of dark patterns, with the most noticeable issues related to hidden information and mildly restrictive choices. The site also employs some deceptive tactics and asymmetric designs that favor certain actions over others, potentially subtly manipulating user decisions."
+        },
+        "website": "DealsDirect"
+    },
+    {
+        "website": "CrazySales"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 8
+            },
+            "Covert": {
+                "score": 7
+            },
+            "Deceptive": {
+                "score": 6
+            },
+            "Hides Information": {
+                "score": 8
+            },
+            "Restrictive": {
+                "score": 9
+            }
+        },
+        "overall_assessment": {
+            "total_score": 38,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with particularly high scores in Restrictive and Asymmetric categories. The user is presented with a blocked message with no clear and immediate options to resolve the issue, leaving their browsing options heavily restricted. Critical information on why the user was blocked is obscured or requires additional steps to decipher."
+        },
+        "website": "Kogan Australia"
+    },
+    {
+        "website": "MyDeal"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 8
+            },
+            "Covert": {
+                "score": 6
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 9
+            }
+        },
+        "overall_assessment": {
+            "total_score": 35,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with particularly high scores in Asymmetric, Hides Information, and Restrictive categories. The presentation is noticeably biased with limited information provided, creating a restrictive user experience."
+        },
+        "website": "Dick Smith Australia"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 6
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 8
+            }
+        },
+        "overall_assessment": {
+            "total_score": 32,
+            "max_possible_score": 50,
+            "summary": "The website shows several dark patterns, particularly in the areas of Hides Information and Restrictive categories. The presentation is biased towards certain promotions with crucial information being somewhat obscured or delayed."
+        },
+        "website": "The Good Guys Australia"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 8
+            }
+        },
+        "overall_assessment": {
+            "total_score": 29,
+            "max_possible_score": 50,
+            "summary": "The website demonstrates several dark patterns, with particularly high scores in Restrictive and Hides Information categories. The presentation shows a noticeable bias, especially in promoting the exclusive offer for members. Important information regarding the offer's restrictions is present but somewhat obscured in fine print."
+        },
+        "website": "JB Hi-Fi Australia"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 21,
+            "max_possible_score": 50,
+            "summary": "The website displays moderate use of dark patterns. There is some asymmetric presentation, mild covert design, some deceptive information, and a moderate amount of hidden information. While not highly restrictive, it does force a security check that users may find inconvenient."
+        },
+        "website": "Harvey Norman Australia"
+    },
+    {
+        "website": "Bing Lee"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 23,
+            "max_possible_score": 50,
+            "summary": "The website demonstrates several dark patterns with a significant focus on asymmetry and hidden information. While the overall presentation is somewhat biased towards certain products, crucial information is relatively concealed and preference is given to highlighted deals, potentially affecting user choices."
+        },
+        "website": "Retravision"
+    },
+    {
+        "website": "Appliances Online Australia"
+    },
+    {
+        "website": "Big Brown Box"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 17,
+            "max_possible_score": 50,
+            "summary": "The website shows moderate use of dark patterns, with higher scores in Covert and Hides Information categories. The presentation is slightly biased, and certain information requires additional steps to access, but overall, the site offers a fairly straightforward experience."
+        },
+        "website": "Winning Appliances"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 7
+            },
+            "Restrictive": {
+                "score": 6
+            }
+        },
+        "overall_assessment": {
+            "total_score": 28,
+            "max_possible_score": 50,
+            "summary": "The website employs several dark patterns, with particularly high scores in Hides Information and Asymmetric categories. There is a noticeable bias in the presentation of options, and some important information is not readily visible or only available after further navigation."
+        },
+        "website": "Gadget City"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 7
+            }
+        },
+        "overall_assessment": {
+            "total_score": 28,
+            "max_possible_score": 50,
+            "summary": "The website employs a number of dark patterns, with particularly high scores in the Asymmetric and Restrictive categories. Important information about pricing, stock availability, and delivery options is somewhat hidden, requiring selection of a specific store. The presentation biases users towards specific choices, and there are some subtle influences present in the design."
+        },
+        "website": "Camera House"
+    },
+    {
+        "website": "Ted's Cameras"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 4
+            }
+        },
+        "overall_assessment": {
+            "total_score": 19,
+            "max_possible_score": 50,
+            "summary": "The website employs a few dark patterns, with particularly noticeable use in the Covert category. The presentation has a mild bias, and some information is slightly delayed or requires additional steps to access. User freedom is somewhat limited but not overly restrictive."
+        },
+        "website": "CameraPro"
+    },
+    {
+        "website": "Digital Camera Warehouse"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 7
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 5
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 27,
+            "max_possible_score": 50,
+            "summary": "The website shows signs of using some dark patterns, with a particularly high score in the Asymmetric category. There is noticeable bias in the presentation of choices, and some important information might be delayed or obscured. However, there is still a reasonable level of transparency and choice for users."
+        },
+        "website": "Georges Cameras"
+    },
+    {
+        "website": "Andrews Communications"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 19,
+            "max_possible_score": 50,
+            "summary": "The website exhibits some dark patterns, particularly in Asymmetric and Hides Information categories. There is a noticeable bias in the presentation of choices and some important information requires additional steps to access, but overtly deceptive practices and extreme restrictions are minimal."
+        },
+        "website": "Radio Parts"
+    },
+    {
+        "website": "Jaycar"
+    },
+    {
+        "website": "Altronics"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 21,
+            "max_possible_score": 50,
+            "summary": "The website demonstrates several dark patterns, with a bias towards promoting participation in the review process. There is a noticeable use of time pressure and a bias towards certain actions, although the overall restrictions and misleading elements are moderate."
+        },
+        "website": "Element 14"
+    },
+    {
+        "website": "Core Electronics"
+    },
+    {
+        "website": "RS Components"
+    },
+    {
+        "website": "Mouser Electronics"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 6
+            },
+            "Covert": {
+                "score": 5
+            },
+            "Deceptive": {
+                "score": 4
+            },
+            "Hides Information": {
+                "score": 5
+            },
+            "Restrictive": {
+                "score": 7
+            }
+        },
+        "overall_assessment": {
+            "total_score": 27,
+            "max_possible_score": 50,
+            "summary": "The website exhibits several dark patterns, especially in the Asymmetric and Restrictive categories. The CAPTCHA mechanism forces users to perform a specific action that may inconvenience them, biased presentation directs user action, information about why the verification is needed is not fully transparent, and it includes mildly covert design elements."
+        },
+        "website": "Digikey"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 4
+            },
+            "Covert": {
+                "score": 3
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 6
+            },
+            "Restrictive": {
+                "score": 5
+            }
+        },
+        "overall_assessment": {
+            "total_score": 20,
+            "max_possible_score": 50,
+            "summary": "The website demonstrates a moderate use of dark patterns. It shows some level of asymmetry in presenting options and subtly influences user decisions. While not overtly deceptive, it does obscure some information, requiring users to proceed through additional steps."
+        },
+        "website": "Sparkfun"
+    },
+    {
+        "website": "Adafruit"
+    },
+    {
+        "website": "Little Bird Electronics"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 0
+            },
+            "Covert": {
+                "score": 0
+            },
+            "Deceptive": {
+                "score": 0
+            },
+            "Hides Information": {
+                "score": 0
+            },
+            "Restrictive": {
+                "score": 0
+            }
+        },
+        "overall_assessment": {
+            "total_score": 0,
+            "max_possible_score": 50,
+            "summary": "The website is currently unreachable with an error indicating it might be temporarily down or have moved to a new web address. As a result, no dark patterns can be analyzed at this time."
+        },
+        "website": "Element 14 Australia"
+    },
+    {
+        "website": "Arduino Australia"
+    },
+    {
+        "website": "Microchip"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 1
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 3
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 10,
+            "max_possible_score": 50,
+            "summary": "The website appears to be straightforward and user-friendly without significant use of dark patterns. Information is presented in a clear manner, and there is an even balance in visual and interactive prominence of choices. There are minimal covert techniques used, and necessary information is readily accessible, with only slight delays observed."
+        },
+        "website": "Texas Instruments"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 2
+            },
+            "Hides Information": {
+                "score": 3
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 14,
+            "max_possible_score": 50,
+            "summary": "The website shows a mild use of dark patterns. Asymmetry in design is present but not overly biased, and there are minor covert techniques that may subtly influence user choices. There is no significant misleading information or overly hidden details, and user choices are mostly unrestricted."
+        },
+        "website": "Seeed Studio"
+    },
+    {
+        "website": "Pololu"
+    },
+    {
+        "website": "RobotShop"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 3
+            },
+            "Covert": {
+                "score": 2
+            },
+            "Deceptive": {
+                "score": 1
+            },
+            "Hides Information": {
+                "score": 4
+            },
+            "Restrictive": {
+                "score": 3
+            }
+        },
+        "overall_assessment": {
+            "total_score": 13,
+            "max_possible_score": 50,
+            "summary": "The website has a relatively low use of dark patterns. The presentation of choices is slightly asymmetric, and some information may require additional steps to access. Overall, the design does not heavily restrict or deceive users."
+        },
+        "website": "Robotics Australia"
+    },
+    {
+        "website": "ServoCity"
+    },
+    {
+        "category_scores": {
+            "Asymmetric": {
+                "score": 5
+            },
+            "Covert": {
+                "score": 4
+            },
+            "Deceptive": {
+                "score": 3
+            },
+            "Hides Information": {
+                "score": 3
+            },
+            "Restrictive": {
+                "score": 2
+            }
+        },
+        "overall_assessment": {
+            "total_score": 17,
+            "max_possible_score": 50,
+            "summary": "The website shows some tendencies towards dark patterns, with moderately biased presentation and some use of subtle design elements that may influence user choices. Information is generally accessible but could be organized more transparently."
+        },
+        "website": "Nuts and Volts"
+    },
+    {
+        "website": "Make"
+    },
+    {
+        "website": "Digi-Key Australia"
+    },
+    {
+        "website": "RS Components Australia"
+    }
+]

@@ -1,0 +1,591 @@
+2024-09-08 21:57:58,123 INFO     Starting run 1
+2024-09-08 21:57:58,123 INFO     Processing websites for run 1
+2024-09-08 21:57:58,123 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Amazon_screenshot_1.png
+2024-09-08 21:57:58,123 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/eBay_screenshot_1.png
+2024-09-08 21:57:58,124 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Alibaba_screenshot_3.png
+2024-09-08 21:57:58,124 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Target_screenshot_3.png
+2024-09-08 21:57:58,124 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Rakuten_screenshot_1.png
+2024-09-08 21:57:58,124 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/JD.com_screenshot_1.png
+2024-09-08 21:57:58,124 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Shopify_screenshot_3.png
+2024-09-08 21:57:58,125 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/ASOS_screenshot_2.png
+2024-09-08 21:57:58,125 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Overstock_screenshot_1.png
+2024-09-08 21:57:58,125 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Aliexpress_screenshot_1.png
+2024-09-08 21:57:58,125 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Wish_screenshot_1.png
+2024-09-08 21:57:58,125 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Home_Depot_screenshot_3.png
+2024-09-08 21:57:58,125 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Lowes_screenshot_3.png
+2024-09-08 21:57:58,125 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/IKEA_screenshot_2.png
+2024-09-08 21:57:58,126 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Costco_screenshot_2.png
+2024-09-08 21:58:01,162 INFO     Image analysis successful
+2024-09-08 21:58:01,164 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:01,165 INFO     Successfully processed Shopify
+2024-09-08 21:58:01,165 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Sears_screenshot_1.png
+2024-09-08 21:58:01,528 INFO     Image analysis successful
+2024-09-08 21:58:01,532 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:01,532 INFO     Successfully processed Costco
+2024-09-08 21:58:01,532 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Kohls_screenshot_3.png
+2024-09-08 21:58:01,551 INFO     Image analysis successful
+2024-09-08 21:58:01,554 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:01,554 INFO     Successfully processed JD.com
+2024-09-08 21:58:01,554 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Toys_R_Us_screenshot_2.png
+2024-09-08 21:58:01,578 INFO     Image analysis successful
+2024-09-08 21:58:01,581 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:01,581 INFO     Successfully processed Target
+2024-09-08 21:58:01,581 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Apple_screenshot_2.png
+2024-09-08 21:58:01,606 INFO     Image analysis successful
+2024-09-08 21:58:01,608 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:01,608 INFO     Successfully processed ASOS
+2024-09-08 21:58:01,608 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Microsoft_Store_screenshot_2.png
+2024-09-08 21:58:01,840 INFO     Image analysis successful
+2024-09-08 21:58:01,843 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:01,843 INFO     Successfully processed IKEA
+2024-09-08 21:58:01,843 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Dell_screenshot_2.png
+2024-09-08 21:58:02,054 INFO     Image analysis successful
+2024-09-08 21:58:02,056 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:02,056 INFO     Successfully processed Alibaba
+2024-09-08 21:58:02,056 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/HP_screenshot_2.png
+2024-09-08 21:58:02,082 INFO     Image analysis successful
+2024-09-08 21:58:02,083 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:02,083 INFO     Successfully processed Lowes
+2024-09-08 21:58:02,083 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Lenovo_screenshot_1.png
+2024-09-08 21:58:02,123 INFO     Image analysis successful
+2024-09-08 21:58:02,125 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:02,125 INFO     Successfully processed Wish
+2024-09-08 21:58:02,125 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Nike_screenshot_3.png
+2024-09-08 21:58:02,216 INFO     Image analysis successful
+2024-09-08 21:58:02,218 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:02,218 INFO     Successfully processed eBay
+2024-09-08 21:58:02,218 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Adidas_screenshot_2.png
+2024-09-08 21:58:02,236 INFO     Image analysis successful
+2024-09-08 21:58:02,240 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:02,241 INFO     Successfully processed Amazon
+2024-09-08 21:58:02,241 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Puma_screenshot_1.png
+2024-09-08 21:58:02,369 INFO     Image analysis successful
+2024-09-08 21:58:02,371 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:02,371 INFO     Successfully processed Rakuten
+2024-09-08 21:58:02,371 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Reebok_screenshot_1.png
+2024-09-08 21:58:02,651 INFO     Image analysis successful
+2024-09-08 21:58:02,653 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:02,653 INFO     Successfully processed Aliexpress
+2024-09-08 21:58:02,653 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Uniqlo_screenshot_1.png
+2024-09-08 21:58:03,001 INFO     Image analysis successful
+2024-09-08 21:58:03,003 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:03,003 INFO     Successfully processed Overstock
+2024-09-08 21:58:03,003 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Forever_21_screenshot_1.png
+2024-09-08 21:58:04,030 INFO     Image analysis successful
+2024-09-08 21:58:04,032 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:04,032 INFO     Successfully processed Home Depot
+2024-09-08 21:58:04,032 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Hollister_screenshot_1.png
+2024-09-08 21:58:04,037 INFO     Image analysis successful
+2024-09-08 21:58:04,038 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:04,038 INFO     Successfully processed Sears
+2024-09-08 21:58:04,038 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Lululemon_screenshot_1.png
+2024-09-08 21:58:04,569 INFO     Image analysis successful
+2024-09-08 21:58:04,570 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:04,570 INFO     Successfully processed Apple
+2024-09-08 21:58:04,571 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Victorias_Secret_screenshot_1.png
+2024-09-08 21:58:04,952 INFO     Image analysis successful
+2024-09-08 21:58:04,954 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:04,954 INFO     Successfully processed Toys R Us
+2024-09-08 21:58:04,955 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Ulta_screenshot_1.png
+2024-09-08 21:58:04,955 INFO     Image analysis successful
+2024-09-08 21:58:04,957 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:04,957 INFO     Successfully processed Microsoft Store
+2024-09-08 21:58:04,957 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Fenty_Beauty_screenshot_2.png
+2024-09-08 21:58:05,010 INFO     Image analysis successful
+2024-09-08 21:58:05,011 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:05,011 INFO     Successfully processed Dell
+2024-09-08 21:58:05,012 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/ColourPop_screenshot_1.png
+2024-09-08 21:58:05,216 INFO     Image analysis successful
+2024-09-08 21:58:05,217 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:05,217 INFO     Successfully processed Kohl's
+2024-09-08 21:58:05,218 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Pat_McGrath_screenshot_1.png
+2024-09-08 21:58:05,256 INFO     Image analysis successful
+2024-09-08 21:58:05,257 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:05,257 INFO     Successfully processed HP
+2024-09-08 21:58:05,257 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Charlotte_Tilbury_screenshot_2.png
+2024-09-08 21:58:05,308 INFO     Image analysis successful
+2024-09-08 21:58:05,310 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:05,310 INFO     Successfully processed Lenovo
+2024-09-08 21:58:05,310 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Morphe_screenshot_1.png
+2024-09-08 21:58:05,571 INFO     Image analysis successful
+2024-09-08 21:58:05,576 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:05,576 INFO     Successfully processed Nike
+2024-09-08 21:58:05,576 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/The_Body_Shop_screenshot_2.png
+2024-09-08 21:58:05,887 INFO     Image analysis successful
+2024-09-08 21:58:05,889 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:05,889 INFO     Successfully processed Puma
+2024-09-08 21:58:05,889 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Birchbox_screenshot_1.png
+2024-09-08 21:58:06,172 INFO     Image analysis successful
+2024-09-08 21:58:06,173 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:06,173 INFO     Successfully processed Adidas
+2024-09-08 21:58:06,173 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Amazon_India_screenshot_1.png
+2024-09-08 21:58:06,931 INFO     Image analysis successful
+2024-09-08 21:58:06,932 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:06,932 INFO     Successfully processed Reebok
+2024-09-08 21:58:06,932 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Amazon_Japan_screenshot_1.png
+2024-09-08 21:58:07,410 INFO     Image analysis successful
+2024-09-08 21:58:07,414 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:07,414 INFO     Successfully processed Uniqlo
+2024-09-08 21:58:07,414 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Tokopedia_screenshot_1.png
+2024-09-08 21:58:07,482 INFO     Image analysis successful
+2024-09-08 21:58:07,486 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:07,486 INFO     Successfully processed Forever 21
+2024-09-08 21:58:07,486 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Bukalapak_screenshot_2.png
+2024-09-08 21:58:07,528 INFO     Image analysis successful
+2024-09-08 21:58:07,530 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:07,530 INFO     Successfully processed Hollister
+2024-09-08 21:58:07,530 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Snapdeal_screenshot_1.png
+2024-09-08 21:58:07,921 INFO     Image analysis successful
+2024-09-08 21:58:07,922 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:07,922 INFO     Successfully processed Lululemon
+2024-09-08 21:58:07,922 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Myntra_screenshot_1.png
+2024-09-08 21:58:08,055 INFO     Image analysis successful
+2024-09-08 21:58:08,057 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:08,057 INFO     Successfully processed Fenty Beauty
+2024-09-08 21:58:08,057 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Ajio_screenshot_1.png
+2024-09-08 21:58:08,148 INFO     Image analysis successful
+2024-09-08 21:58:08,149 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:08,149 INFO     Successfully processed Ulta
+2024-09-08 21:58:08,149 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/ShopClues_screenshot_1.png
+2024-09-08 21:58:08,638 INFO     Image analysis successful
+2024-09-08 21:58:08,638 INFO     Image analysis successful
+2024-09-08 21:58:08,640 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:08,642 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:08,642 INFO     Successfully processed Victoria's Secret
+2024-09-08 21:58:08,642 INFO     Successfully processed ColourPop
+2024-09-08 21:58:08,642 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/BigBasket_screenshot_1.png
+2024-09-08 21:58:08,642 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Grofers_screenshot_1.png
+2024-09-08 21:58:09,076 INFO     Image analysis successful
+2024-09-08 21:58:09,078 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:09,078 INFO     Successfully processed Pat McGrath
+2024-09-08 21:58:09,078 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Nykaa_screenshot_3.png
+2024-09-08 21:58:09,160 INFO     Image analysis successful
+2024-09-08 21:58:09,161 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:09,161 INFO     Successfully processed Morphe
+2024-09-08 21:58:09,161 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Reliance_Digital_screenshot_1.png
+2024-09-08 21:58:09,312 INFO     Image analysis successful
+2024-09-08 21:58:09,314 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:09,314 INFO     Successfully processed The Body Shop
+2024-09-08 21:58:09,314 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Croma_screenshot_1.png
+2024-09-08 21:58:09,550 INFO     Image analysis successful
+2024-09-08 21:58:09,552 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:09,552 INFO     Successfully processed Charlotte Tilbury
+2024-09-08 21:58:09,552 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Dunzo_screenshot_1.png
+2024-09-08 21:58:09,808 INFO     Image analysis successful
+2024-09-08 21:58:09,810 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:09,810 INFO     Successfully processed Amazon India
+2024-09-08 21:58:09,810 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Naaptol_screenshot_1.png
+2024-09-08 21:58:10,647 INFO     Image analysis successful
+2024-09-08 21:58:10,649 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:10,649 INFO     Successfully processed Birchbox
+2024-09-08 21:58:10,649 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Craftsvilla_screenshot_2.png
+2024-09-08 21:58:11,094 INFO     Image analysis successful
+2024-09-08 21:58:11,100 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:11,101 INFO     Successfully processed Snapdeal
+2024-09-08 21:58:11,101 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/FirstCry_screenshot_1.png
+2024-09-08 21:58:11,139 INFO     Image analysis successful
+2024-09-08 21:58:11,141 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:11,141 INFO     Successfully processed Amazon Japan
+2024-09-08 21:58:11,141 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/BabyOye_screenshot_1.png
+2024-09-08 21:58:11,303 INFO     Image analysis successful
+2024-09-08 21:58:11,309 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:11,309 INFO     Successfully processed Bukalapak
+2024-09-08 21:58:11,309 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Zivame_screenshot_1.png
+2024-09-08 21:58:11,506 INFO     Image analysis successful
+2024-09-08 21:58:11,509 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:11,509 INFO     Successfully processed ShopClues
+2024-09-08 21:58:11,509 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Clovia_screenshot_1.png
+2024-09-08 21:58:11,551 INFO     Image analysis successful
+2024-09-08 21:58:11,553 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:11,554 INFO     Successfully processed Myntra
+2024-09-08 21:58:11,554 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/PrettyLittleThing_screenshot_1.png
+2024-09-08 21:58:11,576 INFO     Image analysis successful
+2024-09-08 21:58:11,578 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:11,578 INFO     Successfully processed Ajio
+2024-09-08 21:58:11,578 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Shein_screenshot_1.png
+2024-09-08 21:58:11,836 INFO     Image analysis successful
+2024-09-08 21:58:11,838 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:11,838 INFO     Successfully processed Tokopedia
+2024-09-08 21:58:11,838 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/ASDA_screenshot_1.png
+2024-09-08 21:58:12,494 INFO     Image analysis successful
+2024-09-08 21:58:12,499 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:12,499 INFO     Successfully processed Reliance Digital
+2024-09-08 21:58:12,499 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Next_screenshot_1.png
+2024-09-08 21:58:12,725 INFO     Image analysis successful
+2024-09-08 21:58:12,728 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:12,728 INFO     Successfully processed Dunzo
+2024-09-08 21:58:12,728 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Morrisons_screenshot_1.png
+2024-09-08 21:58:12,791 INFO     Image analysis successful
+2024-09-08 21:58:12,793 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:12,793 INFO     Successfully processed Grofers
+2024-09-08 21:58:12,793 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Boots_screenshot_1.png
+2024-09-08 21:58:12,815 INFO     Image analysis successful
+2024-09-08 21:58:12,817 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:12,817 INFO     Successfully processed BigBasket
+2024-09-08 21:58:12,817 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Superdrug_screenshot_1.png
+2024-09-08 21:58:13,661 INFO     Image analysis successful
+2024-09-08 21:58:13,661 INFO     Image analysis successful
+2024-09-08 21:58:13,667 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:13,670 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:13,670 INFO     Successfully processed Croma
+2024-09-08 21:58:13,670 INFO     Successfully processed Nykaa
+2024-09-08 21:58:13,670 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Lidl_screenshot_1.png
+2024-09-08 21:58:13,671 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Target_Australia_screenshot_3.png
+2024-09-08 21:58:13,756 INFO     Image analysis successful
+2024-09-08 21:58:13,759 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:13,759 INFO     Successfully processed Naaptol
+2024-09-08 21:58:13,759 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/David_Jones_screenshot_1.png
+2024-09-08 21:58:14,004 INFO     Image analysis successful
+2024-09-08 21:58:14,008 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:14,008 INFO     Successfully processed Craftsvilla
+2024-09-08 21:58:14,008 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/JB_Hi-Fi_screenshot_1.png
+2024-09-08 21:58:14,683 INFO     Image analysis successful
+2024-09-08 21:58:14,688 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:14,689 INFO     Successfully processed Shein
+2024-09-08 21:58:14,690 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/The_Iconic_screenshot_1.png
+2024-09-08 21:58:14,690 INFO     Image analysis successful
+2024-09-08 21:58:14,694 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:14,694 INFO     Successfully processed Clovia
+2024-09-08 21:58:14,694 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Catch_screenshot_2.png
+2024-09-08 21:58:14,792 INFO     Image analysis successful
+2024-09-08 21:58:14,796 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:14,797 INFO     Successfully processed ASDA
+2024-09-08 21:58:14,797 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Kmart_Australia_screenshot_1.png
+2024-09-08 21:58:15,192 INFO     Image analysis successful
+2024-09-08 21:58:15,193 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:15,193 INFO     Successfully processed FirstCry
+2024-09-08 21:58:15,193 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Myer_screenshot_3.png
+2024-09-08 21:58:15,420 INFO     Image analysis successful
+2024-09-08 21:58:15,421 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:15,421 INFO     Successfully processed BabyOye
+2024-09-08 21:58:15,421 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/eBay_Australia_screenshot_1.png
+2024-09-08 21:58:15,519 INFO     Image analysis successful
+2024-09-08 21:58:15,520 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:15,520 INFO     Successfully processed PrettyLittleThing
+2024-09-08 21:58:15,520 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Woolworths_screenshot_1.png
+2024-09-08 21:58:15,911 INFO     Image analysis successful
+2024-09-08 21:58:15,911 INFO     Image analysis successful
+2024-09-08 21:58:15,914 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:15,917 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:15,917 INFO     Successfully processed Boots
+2024-09-08 21:58:15,917 INFO     Successfully processed Zivame
+2024-09-08 21:58:15,917 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Chemist_Warehouse_screenshot_3.png
+2024-09-08 21:58:15,918 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Rebel_Sport_screenshot_1_tmNCB4K.png
+2024-09-08 21:58:15,958 INFO     Image analysis successful
+2024-09-08 21:58:15,960 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:15,960 INFO     Successfully processed Next
+2024-09-08 21:58:15,960 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Supercheap_Auto_screenshot_2.png
+2024-09-08 21:58:16,317 INFO     Image analysis successful
+2024-09-08 21:58:16,319 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:16,319 INFO     Successfully processed Morrisons
+2024-09-08 21:58:16,319 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Aesop_screenshot_2.png
+2024-09-08 21:58:16,624 INFO     Image analysis successful
+2024-09-08 21:58:16,626 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:16,626 INFO     Successfully processed Superdrug
+2024-09-08 21:58:16,626 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Mecca_screenshot_1.png
+2024-09-08 21:58:16,813 INFO     Image analysis successful
+2024-09-08 21:58:16,815 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:16,815 INFO     Successfully processed David Jones
+2024-09-08 21:58:16,815 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Cotton_On_screenshot_2.png
+2024-09-08 21:58:17,341 INFO     Image analysis successful
+2024-09-08 21:58:17,343 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:17,343 INFO     Successfully processed Lidl
+2024-09-08 21:58:17,343 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Typo_screenshot_1.png
+2024-09-08 21:58:17,354 INFO     Image analysis successful
+2024-09-08 21:58:17,355 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:17,355 INFO     Successfully processed JB Hi-Fi
+2024-09-08 21:58:17,355 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Supre_screenshot_1.png
+2024-09-08 21:58:18,058 INFO     Image analysis successful
+2024-09-08 21:58:18,060 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:18,060 INFO     Successfully processed Target Australia
+2024-09-08 21:58:18,061 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/The_Good_Guys_Australia_screenshot_2.png
+2024-09-08 21:58:18,104 INFO     Image analysis successful
+2024-09-08 21:58:18,106 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:18,106 INFO     Successfully processed Catch
+2024-09-08 21:58:18,106 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Appliances_Online_Australia_screenshot_1.png
+2024-09-08 21:58:18,181 INFO     Image analysis successful
+2024-09-08 21:58:18,182 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:18,182 INFO     Successfully processed Kmart Australia
+2024-09-08 21:58:18,182 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/BCF_screenshot_2.png
+2024-09-08 21:58:18,440 INFO     Image analysis successful
+2024-09-08 21:58:18,441 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:18,441 INFO     Successfully processed The Iconic
+2024-09-08 21:58:18,441 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Bonds_screenshot_3.png
+2024-09-08 21:58:18,912 INFO     Image analysis successful
+2024-09-08 21:58:18,913 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:18,913 INFO     Successfully processed Woolworths
+2024-09-08 21:58:18,913 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Gorman_screenshot_1.png
+2024-09-08 21:58:19,016 INFO     Image analysis successful
+2024-09-08 21:58:19,017 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:19,017 INFO     Successfully processed eBay Australia
+2024-09-08 21:58:19,017 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Seed_Heritage_screenshot_1.png
+2024-09-08 21:58:19,178 INFO     Image analysis successful
+2024-09-08 21:58:19,180 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:19,180 INFO     Successfully processed Myer
+2024-09-08 21:58:19,180 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Saba_screenshot_1.png
+2024-09-08 21:58:19,323 INFO     Image analysis successful
+2024-09-08 21:58:19,327 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:19,327 INFO     Successfully processed Chemist Warehouse
+2024-09-08 21:58:19,327 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Politix_screenshot_1.png
+2024-09-08 21:58:19,802 INFO     Image analysis successful
+2024-09-08 21:58:19,805 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:19,805 INFO     Successfully processed Aesop
+2024-09-08 21:58:19,805 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/MJ_Bale_screenshot_1.png
+2024-09-08 21:58:19,862 INFO     Image analysis successful
+2024-09-08 21:58:19,864 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:19,864 INFO     Successfully processed Rebel Sport
+2024-09-08 21:58:19,864 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Calibre_screenshot_1.png
+2024-09-08 21:58:20,038 INFO     Image analysis successful
+2024-09-08 21:58:20,039 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:20,039 INFO     Successfully processed Supercheap Auto
+2024-09-08 21:58:20,039 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Hush_Puppies_screenshot_1.png
+2024-09-08 21:58:20,149 INFO     Image analysis successful
+2024-09-08 21:58:20,151 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:20,151 INFO     Successfully processed Cotton On
+2024-09-08 21:58:20,152 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Aquila_screenshot_1.png
+2024-09-08 21:58:20,309 INFO     Image analysis successful
+2024-09-08 21:58:20,311 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:20,311 INFO     Successfully processed Mecca
+2024-09-08 21:58:20,311 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Betts_screenshot_1.png
+2024-09-08 21:58:20,793 INFO     Image analysis successful
+2024-09-08 21:58:20,808 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:20,808 INFO     Successfully processed Supre
+2024-09-08 21:58:20,808 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Spendless_Shoes_screenshot_1.png
+2024-09-08 21:58:21,044 INFO     Image analysis successful
+2024-09-08 21:58:21,045 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:21,045 INFO     Successfully processed Typo
+2024-09-08 21:58:21,045 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Platypus_Shoes_screenshot_1.png
+2024-09-08 21:58:21,498 INFO     Image analysis successful
+2024-09-08 21:58:21,499 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:21,499 INFO     Successfully processed Bonds
+2024-09-08 21:58:21,499 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Rivers_screenshot_3.png
+2024-09-08 21:58:21,612 INFO     Image analysis successful
+2024-09-08 21:58:21,613 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:21,613 INFO     Successfully processed The Good Guys
+2024-09-08 21:58:21,613 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Jeanswest_screenshot_2.png
+2024-09-08 21:58:21,947 INFO     Image analysis successful
+2024-09-08 21:58:21,949 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:21,949 INFO     Successfully processed Appliances Online
+2024-09-08 21:58:21,949 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Cue_screenshot_2.png
+2024-09-08 21:58:22,186 INFO     Image analysis successful
+2024-09-08 21:58:22,188 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:22,188 INFO     Successfully processed BCF
+2024-09-08 21:58:22,188 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Sussan_screenshot_2.png
+2024-09-08 21:58:22,536 INFO     Image analysis successful
+2024-09-08 21:58:22,538 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:22,538 INFO     Successfully processed Seed Heritage
+2024-09-08 21:58:22,538 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Bed_Bath_N_Table_screenshot_2.png
+2024-09-08 21:58:22,551 INFO     Image analysis successful
+2024-09-08 21:58:22,552 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:22,552 INFO     Successfully processed Gorman
+2024-09-08 21:58:22,552 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Freedom_screenshot_3.png
+2024-09-08 21:58:23,076 INFO     Image analysis successful
+2024-09-08 21:58:23,077 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:23,077 INFO     Successfully processed Politix
+2024-09-08 21:58:23,077 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Fantastic_Furniture_screenshot_2.png
+2024-09-08 21:58:23,255 INFO     Image analysis successful
+2024-09-08 21:58:23,256 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:23,256 INFO     Successfully processed Hush Puppies
+2024-09-08 21:58:23,257 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Amart_Furniture_screenshot_1.png
+2024-09-08 21:58:23,793 INFO     Image analysis successful
+2024-09-08 21:58:23,794 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:23,794 INFO     Successfully processed Calibre
+2024-09-08 21:58:23,794 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Forty_Winks_screenshot_3.png
+2024-09-08 21:58:23,874 INFO     Image analysis successful
+2024-09-08 21:58:23,875 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:23,875 INFO     Successfully processed MJ Bale
+2024-09-08 21:58:23,875 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Snooze_screenshot_3.png
+2024-09-08 21:58:23,905 INFO     Image analysis successful
+2024-09-08 21:58:23,906 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:23,906 INFO     Successfully processed Aquila
+2024-09-08 21:58:23,906 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Nick_Scali_screenshot_2.png
+2024-09-08 21:58:23,973 INFO     Image analysis successful
+2024-09-08 21:58:23,975 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:23,975 INFO     Successfully processed Betts
+2024-09-08 21:58:23,975 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Sleeping_Duck_screenshot_3.png
+2024-09-08 21:58:24,004 INFO     Image analysis successful
+2024-09-08 21:58:24,005 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:24,005 INFO     Successfully processed Spendless Shoes
+2024-09-08 21:58:24,005 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Koala_screenshot_1.png
+2024-09-08 21:58:24,248 INFO     Image analysis successful
+2024-09-08 21:58:24,250 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:24,250 INFO     Successfully processed Platypus Shoes
+2024-09-08 21:58:24,251 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Redbubble_screenshot_1.png
+2024-09-08 21:58:24,922 INFO     Image analysis successful
+2024-09-08 21:58:24,924 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:24,924 INFO     Successfully processed Jeanswest
+2024-09-08 21:58:24,924 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Society6_screenshot_1.png
+2024-09-08 21:58:25,365 INFO     Image analysis successful
+2024-09-08 21:58:25,367 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:25,367 INFO     Successfully processed Cue
+2024-09-08 21:58:25,367 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/DealsDirect_screenshot_3.png
+2024-09-08 21:58:25,525 INFO     Image analysis successful
+2024-09-08 21:58:25,527 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:25,527 INFO     Successfully processed Bed Bath N' Table
+2024-09-08 21:58:25,527 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/CrazySales_screenshot_2.png
+2024-09-08 21:58:26,353 INFO     Image analysis successful
+2024-09-08 21:58:26,353 INFO     Image analysis successful
+2024-09-08 21:58:26,354 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:26,357 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:26,357 INFO     Successfully processed Rivers
+2024-09-08 21:58:26,357 INFO     Successfully processed Sussan
+2024-09-08 21:58:26,357 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/MyDeal_screenshot_2.png
+2024-09-08 21:58:26,357 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Bing_Lee_screenshot_2.png
+2024-09-08 21:58:26,584 INFO     Image analysis successful
+2024-09-08 21:58:26,586 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:26,586 INFO     Successfully processed Freedom
+2024-09-08 21:58:26,586 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Retravision_screenshot_2.png
+2024-09-08 21:58:26,969 INFO     Image analysis successful
+2024-09-08 21:58:26,971 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:26,971 INFO     Successfully processed Fantastic Furniture
+2024-09-08 21:58:26,972 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Big_Brown_Box_screenshot_1.png
+2024-09-08 21:58:26,972 INFO     Image analysis successful
+2024-09-08 21:58:26,972 INFO     Image analysis successful
+2024-09-08 21:58:26,973 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:26,975 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:26,975 INFO     Successfully processed Sleeping Duck
+2024-09-08 21:58:26,975 INFO     Successfully processed Saba
+2024-09-08 21:58:26,975 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Winning_Appliances_screenshot_3.png
+2024-09-08 21:58:26,975 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Gadget_City_screenshot_1.png
+2024-09-08 21:58:27,274 INFO     Image analysis successful
+2024-09-08 21:58:27,276 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:27,276 INFO     Successfully processed Forty Winks
+2024-09-08 21:58:27,276 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Camera_House_screenshot_3.png
+2024-09-08 21:58:27,312 INFO     Image analysis successful
+2024-09-08 21:58:27,314 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:27,314 INFO     Successfully processed Snooze
+2024-09-08 21:58:27,314 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Teds_Cameras_screenshot_2.png
+2024-09-08 21:58:27,317 INFO     Image analysis successful
+2024-09-08 21:58:27,319 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:27,319 INFO     Successfully processed Koala
+2024-09-08 21:58:27,319 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Digital_Camera_Warehouse_screenshot_1.png
+2024-09-08 21:58:27,699 INFO     Image analysis successful
+2024-09-08 21:58:27,700 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:27,701 INFO     Successfully processed Amart Furniture
+2024-09-08 21:58:27,701 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Georges_Cameras_screenshot_2.png
+2024-09-08 21:58:27,773 INFO     Image analysis successful
+2024-09-08 21:58:27,775 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:27,775 INFO     Successfully processed Nick Scali
+2024-09-08 21:58:27,775 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Radio_Parts_screenshot_2.png
+2024-09-08 21:58:28,298 INFO     Image analysis successful
+2024-09-08 21:58:28,300 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:28,300 INFO     Successfully processed Redbubble
+2024-09-08 21:58:28,300 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Jaycar_screenshot_3.png
+2024-09-08 21:58:29,017 INFO     Image analysis successful
+2024-09-08 21:58:29,018 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:29,018 INFO     Successfully processed CrazySales
+2024-09-08 21:58:29,018 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Altronics_screenshot_2.png
+2024-09-08 21:58:29,023 INFO     Image analysis successful
+2024-09-08 21:58:29,025 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:29,025 INFO     Successfully processed Society6
+2024-09-08 21:58:29,025 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Core_Electronics_screenshot_1.png
+2024-09-08 21:58:29,320 INFO     Image analysis successful
+2024-09-08 21:58:29,321 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:29,321 INFO     Successfully processed DealsDirect
+2024-09-08 21:58:29,321 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/RS_Components_Australia_screenshot_1.png
+2024-09-08 21:58:29,981 INFO     Image analysis successful
+2024-09-08 21:58:29,982 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:29,982 INFO     Successfully processed MyDeal
+2024-09-08 21:58:29,982 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Digikey_screenshot_1.png
+2024-09-08 21:58:30,039 INFO     Image analysis successful
+2024-09-08 21:58:30,040 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:30,040 INFO     Successfully processed Bing Lee
+2024-09-08 21:58:30,040 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Sparkfun_screenshot_1.png
+2024-09-08 21:58:30,300 INFO     Image analysis successful
+2024-09-08 21:58:30,303 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:30,303 INFO     Successfully processed Ted's Cameras
+2024-09-08 21:58:30,303 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Adafruit_screenshot_3.png
+2024-09-08 21:58:30,315 INFO     Image analysis successful
+2024-09-08 21:58:30,317 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:30,317 INFO     Successfully processed Retravision
+2024-09-08 21:58:30,317 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Little_Bird_Electronics_screenshot_1.png
+2024-09-08 21:58:30,371 INFO     Image analysis successful
+2024-09-08 21:58:30,373 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:30,373 INFO     Successfully processed Big Brown Box
+2024-09-08 21:58:30,373 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Element_14_Australia_screenshot_1.png
+2024-09-08 21:58:30,572 INFO     Image analysis successful
+2024-09-08 21:58:30,573 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:30,573 INFO     Successfully processed Camera House
+2024-09-08 21:58:30,573 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Microchip_screenshot_1.png
+2024-09-08 21:58:30,679 INFO     Image analysis successful
+2024-09-08 21:58:30,680 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:30,680 INFO     Successfully processed Gadget City
+2024-09-08 21:58:30,680 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Texas_Instruments_screenshot_1.png
+2024-09-08 21:58:31,066 INFO     Image analysis successful
+2024-09-08 21:58:31,067 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:31,067 INFO     Successfully processed Radio Parts
+2024-09-08 21:58:31,067 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Seeed_Studio_screenshot_1.png
+2024-09-08 21:58:31,554 INFO     Image analysis successful
+2024-09-08 21:58:31,555 INFO     Image analysis successful
+2024-09-08 21:58:31,558 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:31,560 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:31,560 INFO     Successfully processed Winning Appliances
+2024-09-08 21:58:31,560 INFO     Successfully processed Digital Camera Warehouse
+2024-09-08 21:58:31,560 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Pololu_screenshot_1.png
+2024-09-08 21:58:31,560 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/RobotShop_screenshot_2.png
+2024-09-08 21:58:31,985 INFO     Image analysis successful
+2024-09-08 21:58:31,986 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:31,986 INFO     Successfully processed Georges Cameras
+2024-09-08 21:58:31,986 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Robotics_Australia_screenshot_1.png
+2024-09-08 21:58:32,396 INFO     Image analysis successful
+2024-09-08 21:58:32,398 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:32,398 INFO     Successfully processed Altronics
+2024-09-08 21:58:32,398 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/ServoCity_screenshot_2.png
+2024-09-08 21:58:32,510 INFO     Image analysis successful
+2024-09-08 21:58:32,514 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:32,514 INFO     Successfully processed Core Electronics
+2024-09-08 21:58:32,514 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Nuts_and_Volts_screenshot_1.png
+2024-09-08 21:58:32,549 INFO     Image analysis successful
+2024-09-08 21:58:32,550 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:32,550 INFO     Successfully processed Jaycar
+2024-09-08 21:58:32,550 INFO     Analyzing image at http://app.433-cloud.com/media/user-data/images/Make_screenshot_3.png
+2024-09-08 21:58:32,622 INFO     Image analysis successful
+2024-09-08 21:58:32,623 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:32,623 INFO     Successfully processed RS Components
+2024-09-08 21:58:33,265 INFO     Image analysis successful
+2024-09-08 21:58:33,266 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:33,266 INFO     Successfully processed Sparkfun
+2024-09-08 21:58:33,347 INFO     Image analysis successful
+2024-09-08 21:58:33,348 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:33,348 INFO     Successfully processed Little Bird Electronics
+2024-09-08 21:58:33,705 INFO     Image analysis successful
+2024-09-08 21:58:33,706 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:33,706 INFO     Successfully processed Element 14 Australia
+2024-09-08 21:58:33,960 INFO     Image analysis successful
+2024-09-08 21:58:33,962 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:33,962 INFO     Successfully processed Adafruit
+2024-09-08 21:58:34,096 INFO     Image analysis successful
+2024-09-08 21:58:34,098 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:34,098 INFO     Successfully processed Microchip
+2024-09-08 21:58:34,185 INFO     Image analysis successful
+2024-09-08 21:58:34,187 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:34,187 INFO     Successfully processed Digikey
+2024-09-08 21:58:34,650 INFO     Image analysis successful
+2024-09-08 21:58:34,660 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:34,661 INFO     Successfully processed Texas Instruments
+2024-09-08 21:58:34,954 INFO     Image analysis successful
+2024-09-08 21:58:34,956 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:34,956 INFO     Successfully processed RobotShop
+2024-09-08 21:58:35,121 INFO     Image analysis successful
+2024-09-08 21:58:35,123 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:35,123 INFO     Successfully processed Seeed Studio
+2024-09-08 21:58:35,508 INFO     Image analysis successful
+2024-09-08 21:58:35,510 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:35,510 INFO     Successfully processed Pololu
+2024-09-08 21:58:35,715 INFO     Image analysis successful
+2024-09-08 21:58:35,719 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:35,719 INFO     Successfully processed ServoCity
+2024-09-08 21:58:35,748 INFO     Image analysis successful
+2024-09-08 21:58:35,750 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:35,750 INFO     Successfully processed Nuts and Volts
+2024-09-08 21:58:35,876 INFO     Image analysis successful
+2024-09-08 21:58:35,878 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:35,878 INFO     Successfully processed Make
+2024-09-08 21:58:36,393 INFO     Image analysis successful
+2024-09-08 21:58:36,395 INFO     Parsing JSON output from analysis result
+2024-09-08 21:58:36,395 INFO     Successfully processed Robotics Australia
+2024-09-08 21:58:36,395 INFO     All websites processed for run 1
+2024-09-08 21:58:36,396 INFO     Results obtained successfully for run 1
+2024-09-08 21:58:36,396 INFO     Writing results to output_dpd_run1.json
+2024-09-08 21:58:36,402 INFO     Results written to output_dpd_run1.json
+2024-09-08 21:58:36,402 INFO     Completed run 1
